@@ -5,7 +5,7 @@ from tqdm import tqdm
 
 def extract_first_and_last_frames(video_file):
     # Create base directory path
-    base_dir = 'frames/' + os.path.splitext(os.path.basename(video_file))[0]
+    base_dir = 'images/' + os.path.splitext(os.path.basename(video_file))[0]
     
     # Check if both 'first.jpg' and 'last.jpg' already exist
     first_frame_path = os.path.join(base_dir, 'first.jpg')
@@ -54,7 +54,7 @@ def extract_and_save_frame(cap, video_file, frame_number, frame_type, base_dir):
     print(f"Saved {frame_file_name}")
 
 # Read JSON file
-json_file = 'validation_2K.json'
+json_file = 'train.json'
 with open(json_file, 'r') as file:
     videos = json.load(file)
 
