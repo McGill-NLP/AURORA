@@ -11,7 +11,7 @@ For the training data, use the json files under `data/` as well as the image fol
 - **Kubric**: [Zenodo](Link)
 
 ## TODOs
-- [] Dataset access
-- [] Push code for running our model
-- [] Push clean code for reproducing training and evaluation
-- [] Create a demo of our model
+- [ ] Dataset access
+- [ ] Push code for running our model
+- [ ] Push clean code for reproducing training and evaluation
+- [ ] Create a demo of our model
