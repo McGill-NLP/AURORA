@@ -15,3 +15,4 @@ For the training data, use the json files under `data/` as well as the image fol
 - [ ] Push code for running our model
 - [ ] Push clean code for reproducing training and evaluation
 - [ ] Create a demo of our model
+- [ ] Acknowledgements: Something Something, AG, Kubric, EQBEN, MagicBrush (!!)
