@@ -23,12 +23,10 @@ about funding interests._
 We collected AURORA since there is no current high-quality dataset for instruction-guided image editing where the instruction is an action such as "move carrots into the sink". As a result, the current image editing are quite limited and not as "general" as one would hope. This is an important subtask of image editing and can enable many downstream applications. There have been few training datasets for these sort of edit instructions and the ones that exist have very noisy data, i.e. where the target image shows far more changes than described in the text, or the change described is not even properly shown.
 
 ### Who created the dataset (e.g., which team, research group) and on behalf of which entity (e.g., company, institution, organization)?
-
+It was developed primarily at "Mila - Quebec Artificial Intelligence Institute", specifically in Siva Reddy's lab by his PhD student Benno Krojer. Other collaborators on the paper were involved in the ideation, many of them also at Mila and one of them at Stability AI.
 
 ### Who funded the creation of the dataset? 
-
-_If there is an associated grant, please provide the name of the grantor and the grant
-name and number._
+The dataset was funded by the PI, Siva Reddy.
 
 ### Any other comments?
 
