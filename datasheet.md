@@ -41,82 +41,75 @@ comparable regulations in other jurisdictions._
 
 ### What do the instances that comprise the dataset represent (e.g., documents, photos, people, countries)?
 
-_Are there multiple types of instances (e.g., movies, users, and ratings; people and
-interactions between them; nodes and edges)? Please provide a description._
+Each datapoint is a triplet of (source image, prompt, target image), i.e. (an image of a dog, "make the dog smile", an image of a dog smiling).
+Our data consists of four sub-datasets:
+1. MagicBrush: **Source images** are diverse web-scrapped images ([MS-COCO](https://cocodataset.org/#home) which comes from websites like Flickr). **Prompt** and **target images** were previously crowd-sourced with humans using the DALL-E 2 editing interface.
+2. Action-Genome-Edit and Something-Something-Edit:** source** and **target images** are video frames depicting activities mostly at home; the **prompt** is human written (crowd-sourced by us or in the case of Something Something at the time of video recording in the original dataset).
+3. Kubric-Edit: **Source** and **target images** were generated in a simulation engine (Kubric), and depict non-human objects. The **prompt** is templated.
 
 ### How many instances are there in total (of each type, if appropriate)?
+9K (MagicBrush) + 11K (Action-Genome-Edit) + 119K (Something-Something-Edit) + 150K (Kubric-Edit) = 149K + 150K = 399K
 
 ### Does the dataset contain all possible instances or is it a sample (not necessarily random) of instances from a larger set?
 
-_If the dataset is a sample, then what is the larger set? Is the sample representative
-of the larger set (e.g., geographic coverage)? If so, please describe how this
-representativeness was validated/verified. If it is not representative of the larger set,
-please describe why not (e.g., to cover a more diverse range of instances, because
-instances were withheld or unavailable)._
+It is not really a sample, but we did have to filter out video frames that were too noisy or showed too much change such as camera movement.
 
 ### What data does each instance consist of? 
 
-_“Raw” data (e.g., unprocessed text or images) or features? In either case, please
-provide a description._
+Two raw images (source & target), and a string (the prompt).
 
 ### Is there a label or target associated with each instance?
 
-_If so, please provide a description._
+The **target image** is the structure that the model has to predict during training and test time.
 
 ### Is any information missing from individual instances?
 
-_If so, please provide a description, explaining why this information is missing (e.g.,
-because it was unavailable). This does not include intentionally removed information,
-but might include, e.g., redacted text._
+No.
 
 ### Are relationships between individual instances made explicit (e.g., users’ movie ratings, social network links)?
 
-_If so, please describe how these relationships are made explicit._
+In MagicBrush there are sequential edits, that are indicated by the json key "img_id".
+In Action-Genome edit, some datapoints can come from the same video clip, which can be checked in the filename.
 
 ### Are there recommended data splits (e.g., training, development/validation, testing)?
 
-_If so, please provide a description of these splits, explaining the rationale behind them._
+We release training data separately from the AURORA-Bench data. The test data is much smaller and the test split of each of our training sub-datasets contributes to it.
 
 ### Are there any errors, sources of noise, or redundancies in the dataset?
 
-_If so, please provide a description._
+The main source of noise comes with the video-frame-based data where sometimes there can be more changes than described in language. Or the change described in the prompt is not shown clearly.
 
 ### Is the dataset self-contained, or does it link to or otherwise rely on external resources (e.g., websites, tweets, other datasets)?
 
-_If it links to or relies on external resources, a) are there guarantees that they will
-exist, and remain constant, over time; b) are there official archival versions of the
-complete dataset (i.e., including the external resources as they existed at the time the
-dataset was created); c) are there any restrictions (e.g., licenses, fees) associated with
-any of the external resources that might apply to a future user? Please provide descriptions
-of all external resources and any restrictions associated with them, as well as links or other
-access points, as appropriate._
+Self-contained, except that we ask people to download the videos from the original Something Something website, instead of providing the actual image files.
 
 ### Does the dataset contain data that might be considered confidential (e.g., data that is protected by legal privilege or by doctor-patient confidentiality, data that includes the content of individuals’ non-public communications)?
 
-_If so, please provide a description._
+No, it was crowd-souced with paid workers who agreed to work on this task.
 
 ### Does the dataset contain data that, if viewed directly, might be offensive, insulting, threatening, or might otherwise cause anxiety?
 
-_If so, please describe why._
+No.
 
 ### Does the dataset relate to people? 
 
-_If not, you may skip the remaining questions in this section._
+Especially the Action-Genome-Edit data depicts people in their homes.
 
 ### Does the dataset identify any subpopulations (e.g., by age, gender)?
 
-_If so, please describe how these subpopulations are identified and provide a description of
-their respective distributions within the dataset._
+We do not know the exact recruitment for Action-Genome and Something Something videos (we build on top of these), but there are usually requirements such as speaking English.
+In our case, we only worked with 7 workers that had shown to produce high-quality data. We do not know their age or other personal details as this information is not direclty shown in Amazon Mechanical Turk.
 
 ### Is it possible to identify individuals (i.e., one or more natural persons), either directly or indirectly (i.e., in combination with other data) from the dataset?
 
-_If so, please describe how._
+If someone really tried, they might be able to identify some of the people in Action-Genome-Edit since they are shown fully and in their home. This would have to rely on advanced facial recognition and matching with other databases.
 
 ### Does the dataset contain data that might be considered sensitive in any way (e.g., data that reveals racial or ethnic origins, sexual orientations, religious beliefs, political opinions or union memberships, or locations; financial or health data; biometric or genetic data; forms of government identification, such as social security numbers; criminal history)?
 
-_If so, please provide a description._
+No.
 
 ### Any other comments?
+None.
 
 ## Collection process
 
