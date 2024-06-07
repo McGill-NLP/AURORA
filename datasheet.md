@@ -258,7 +258,7 @@ The weeks after submission to NeurIPS Dataset & Benchmark track, so in June 2024
 
 ### Will the dataset be distributed under a copyright or other intellectual property (IP) license, and/or under applicable terms of use (ToU)?
 
-We stick with the standard open-source license: Creative Commons Attribution 4.0 License
+We stick with the standard open-source license: MIT License
 
 ### Have any third parties imposed IP-based or other restrictions on the data associated with the instances?
 
@@ -304,7 +304,7 @@ If there ever was an update, yes.
 
 ### If others want to extend/augment/build on/contribute to the dataset, is there a mechanism for them to do so?
 
-Since we use a non-restricting license (CC 4.0), anyone can build on top or include in their training data mixture.
+Since we use a non-restricting license (MIT license), anyone can build on top or include in their training data mixture.
 
 ### Any other comments?
 
