@@ -262,14 +262,16 @@ We stick with the standard open-source license: Creative Commons Attribution 4.0
 
 ### Have any third parties imposed IP-based or other restrictions on the data associated with the instances?
 
-
+Something Something is the only dataset with a restricted license (it seems, I don't speak legalese: [License Terms](https://developer.qualcomm.com/software/ai-datasets/something-something)).
+So we are planning to link to their website and provide scripts to get to our final data.
 
 ### Do any export controls or other regulatory restrictions apply to the dataset or to individual instances?
 
-_If so, please describe these restrictions, and provide a link or other access point to, or otherwise
-reproduce, any supporting documentation._
+[Official access and licensing](https://developer.qualcomm.com/software/ai-datasets/something-something) of Something Something dataset.
 
 ### Any other comments?
+
+None.
 
 ## Maintenance
 
@@ -278,28 +280,32 @@ and communicate this plan with dataset consumers._
 
 ### Who is supporting/hosting/maintaining the dataset?
 
+The main author is responsible for ensuring long-term accessibility, which relies on Zenodo and Huggingface.
+
 ### How can the owner/curator/manager of the dataset be contacted (e.g., email address)?
+
+benno.krojer@mila.quebec (or after I finish my PhD benno.krojer@gmail.com)
 
 ### Is there an erratum?
 
-_If so, please provide a link or other access point._
+Not yet!
 
 ### Will the dataset be updated (e.g., to correct labeling errors, add new instances, delete instances)?
 
-_If so, please describe how often, by whom, and how updates will be communicated to users (e.g., mailing list, GitHub)?_
+Not sure yet. If we find that people are interested in the data or trained model, we will continue our efforts.
 
 ### If the dataset relates to people, are there applicable limits on the retention of the data associated with the instances (e.g., were individuals in question told that their data would be retained for a fixed period of time and then deleted)?
 
-_If so, please describe these limits and explain how they will be enforced._
+No.
 
 ### Will older versions of the dataset continue to be supported/hosted/maintained?
 
-_If so, please describe how. If not, please describe how its obsolescence will be communicated to users._
+If there ever was an update, yes.
 
 ### If others want to extend/augment/build on/contribute to the dataset, is there a mechanism for them to do so?
 
-_If so, please provide a description. Will these contributions be validated/verified? If so,
-please describe how. If not, why not? Is there a process for communicating/distributing these
-contributions to other users? If so, please provide a description._
+Since we use a non-restricting license (CC 4.0), anyone can build on top or include in their training data mixture.
 
 ### Any other comments?
+
+No. We hope the data is useful to people!
