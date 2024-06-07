@@ -20,10 +20,10 @@ about funding interests._
 
 ### For what purpose was the dataset created? 
 
-_Was there a specific task in mind? Was there a specific gap that needed to be filled?
-Please provide a description._
+We collected AURORA since there is no current high-quality dataset for instruction-guided image editing where the instruction is an action such as "move carrots into the sink". As a result, the current image editing are quite limited and not as "general" as one would hope. This is an important subtask of image editing and can enable many downstream applications. There have been few training datasets for these sort of edit instructions and the ones that exist have very noisy data, i.e. where the target image shows far more changes than described in the text, or the change described is not even properly shown.
 
 ### Who created the dataset (e.g., which team, research group) and on behalf of which entity (e.g., company, institution, organization)?
+
 
 ### Who funded the creation of the dataset? 
 
