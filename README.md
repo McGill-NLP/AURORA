@@ -3,7 +3,9 @@ Code and data for the paper: Learning Action and Reasoning-Centric Image Editing
 
 
 ## TODOs
-- [ ] Dataset access
+- [ ] Training ataset access
+- [ ] Benchmark access
+- [ ] Human ratings
 - [ ] Push code for running our model
 - [ ] Push clean code for reproducing training and evaluation
 - [ ] Create a demo of our model
@@ -11,7 +13,7 @@ Code and data for the paper: Learning Action and Reasoning-Centric Image Editing
 
 ## Data
 
-On the data side, we release three things:
+On the data side, we release three artifacts:
 1. The training dataset (AURORA)
 2. A benchmark for testing diverse editing skills (AURORA-Bench): object-centric, action-centric, reasoning-centric, and global edits
 3. Human ratings on AURORA-Bench, i.e. for other researchers working image editing metrics
