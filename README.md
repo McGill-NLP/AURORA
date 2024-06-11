@@ -1,5 +1,7 @@
 # AURORA
 Code and data for the paper: Learning Action and Reasoning-Centric Image Editing from Videos and Simulation
+Demo: TODO
+Huggingface Dataset: TODO
 
 
 ## TODOs
@@ -45,4 +47,14 @@ For each sub-dataset of AURORA, an entry would look like this:
   {"..."}
 ]
 ```
+### Benchmark: AURORA-Bench
 
+### Human Ratings
+
+## Inference
+
+## Training
+
+## Reproduce Evaluation
+
+## Acknowledgements, License, Citation
