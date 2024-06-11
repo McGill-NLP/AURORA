@@ -6,7 +6,7 @@ Code and data for the paper: Learning Action and Reasoning-Centric Image Editing
 - [ ] Training ataset access
 - [ ] Benchmark access
 - [ ] Human ratings
-- [ ] Push code for running our model
+- [ ] Push code for inference
 - [ ] Push clean code for reproducing training and evaluation
 - [ ] Create a demo of our model
 - [ ] Acknowledgements: Something Something, AG, Kubric, EQBEN, MagicBrush (!!)
