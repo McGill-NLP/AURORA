@@ -3,7 +3,7 @@ Code and data for the paper: Learning Action and Reasoning-Centric Image Editing
 
 
 ## TODOs
-- [ ] Training ataset access
+- [x] Training ataset access
 - [ ] Benchmark access
 - [ ] Human ratings
 - [ ] Push code for inference
@@ -18,13 +18,31 @@ On the data side, we release three artifacts:
 2. A benchmark for testing diverse editing skills (AURORA-Bench): object-centric, action-centric, reasoning-centric, and global edits
 3. Human ratings on AURORA-Bench, i.e. for other researchers working image editing metrics
 
+### Training Data (AURORA)
 
-For the training data, use the json files under `data/` as well as the image folders on Zenodo for easy `wget` downloading:
+Download the images easily via zenodo:
+```
+wget https://zenodo.org/record/11552426/files/ag_images.zip
+wget https://zenodo.org/record/11552426/files/kubric_images.zip
+wget https://zenodo.org/record/11552426/files/magicbrush_images.zip
+```
 
-- **MagicBrush**: either use the [original instructions](Link) (via Huggingface) or ours [Zenodo](URL). Download via: `wget X`
-- **Action-Genome**: [Zenodo](Link)
-- **Something-Something**: You unfortunately need to go to the [original source](https://developer.qualcomm.com/software/ai-datasets/something-something) and download all the zip files and put all the videos in a folder named `videos/`. Then run `data/something/extract_frames.py`.
-- **Kubric**: [Zenodo](Link)
+Now put them into their respective directory `data/NAME` and rename them images.zip.
+So in the end you should have `data/kubric/images` as a directory etc.
+
+For Something-Something-Edit, unfortunately you need to go to the [original source](https://developer.qualcomm.com/software/ai-datasets/something-something) and download all the zip files and put *all* the videos in a folder named `videos/`. Then run `data/something/extract_frames.py`, as well as as `data/something/filter_keywords.py`.
+
+Now for each sub-dataset of AURORA, an entry would look like this:
 
 
+```json
+[
+  {
+    "instruction": "Leave the door while standing closer",
+    "input": "data/ag/images/1K0SU.mp4_4_left.png",
+    "output": "data/ag/images/1K0SU.mp4_4_right.png"
+  },
+  {"..."}
+]
+```
 
