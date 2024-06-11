@@ -32,7 +32,7 @@ So in the end you should have `data/kubric/images` as a directory etc.
 
 For Something-Something-Edit, you need to go to the [original source](https://developer.qualcomm.com/software/ai-datasets/something-something) and download all the zip files and put *all* the videos in a folder named `videos/`. Then run `data/something/extract_frames.py`, as well as as `data/something/filter_keywords.py`.
 
-Now for each sub-dataset of AURORA, an entry would look like this:
+For each sub-dataset of AURORA, an entry would look like this:
 
 
 ```json
