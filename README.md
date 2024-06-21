@@ -9,7 +9,7 @@
 AURORA (Action Reasoning Object Attribute) enables training an instruction-guided image editing model that is good at action and reasoning-centric edits, on top of the established object, attribute or global edits. 
 
 <p align="center">
-  <img src="https://github.com/McGill-NLP/llm2vec/assets/12207571/48efd48a-431b-4625-8e0f-248a442e3839" width="75%" alt="LLM2Vec_figure1"/>
+  <img src="images/overview.png" width="75%" alt="Overview"/>
 </p>
 
 Code and data for the paper: Learning Action and Reasoning-Centric Image Editing from Videos and Simulation
