@@ -1,6 +1,23 @@
-# AURORA
+# *AURORA: Learning Action and Reasoning-Centric Image Editing from Videos and Simulation*
+
+[![Website](https://img.shields.io/badge/Website-TODO.svg)](https://Website.com)
+[![arxiv](https://img.shields.io/badge/arXiv-123.123-b31b1b.svg)](https://arxiv.org/abs/123.123)
+[![HF Datasets](https://img.shields.io/badge/HF%20Datasets-AURORA-FFD21E.svg)](https://huggingface.co/collections/McGill-NLP/TODO)
+[![HF Demo](https://img.shields.io/badge/HF%20DEMO-FFD21E.svg)](https://huggingface.co/collections/McGill-NLP/TODO)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/McGill-NLP/AURORA/blob/main/LICENSE)
+
+LLM2Vec is a simple recipe to convert decoder-only LLMs into text encoders. It consists of 3 simple steps: 1) enabling bidirectional attention, 2) training with masked next token prediction, and 3) unsupervised contrastive learning. The model can be further fine-tuned to achieve state-of-the-art performance.
+
+<p align="center">
+  <img src="https://github.com/McGill-NLP/llm2vec/assets/12207571/48efd48a-431b-4625-8e0f-248a442e3839" width="75%" alt="LLM2Vec_figure1"/>
+</p>
+
 Code and data for the paper: Learning Action and Reasoning-Centric Image Editing from Videos and Simulation
+
+Website: TODO
+
 Demo: TODO
+
 Huggingface Dataset: TODO
 
 
@@ -48,6 +65,8 @@ For each sub-dataset of AURORA, an entry would look like this:
 ]
 ```
 ### Benchmark: AURORA-Bench
+
+
 
 ### Human Ratings
 
