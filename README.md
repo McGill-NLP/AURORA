@@ -6,19 +6,12 @@
 [![HF Demo](https://img.shields.io/badge/HF%20DEMO-FFD21E.svg)](https://huggingface.co/collections/McGill-NLP/TODO)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/McGill-NLP/AURORA/blob/main/LICENSE)
 
-AURORA (Action Reasoning Object Attribute) enables training an instruction-guided image editing model that is good at action and reasoning-centric edits, on top of the established object, attribute or global edits. 
+AURORA (Action Reasoning Object Attribute) enables training an instruction-guided image editing model that is good at action and reasoning-centric edits, on top of the established object, attribute or global edits. Here we release 1) training data, 2) trained model, 3) benchmark, 4) reproducible training and evaluation.
 
 <p align="center">
   <img src="images/overview.png" width="75%" alt="Overview"/>
 </p>
 
-Code and data for the paper: Learning Action and Reasoning-Centric Image Editing from Videos and Simulation
-
-Website: TODO
-
-Demo: TODO
-
-Huggingface Dataset: TODO
 
 
 ## TODOs
