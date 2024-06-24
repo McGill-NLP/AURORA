@@ -59,7 +59,7 @@ For each sub-dataset of AURORA, an entry would look like this:
 ```
 ### Benchmark: AURORA-Bench
 
-
+For measuring how well models do on various editing skills (action, reasoning, object/attribute, global), we introduce AURORA-Bench hosted here on this repository under `test.json` with the respective images under `data/TASK/images/`.
 
 ### Human Ratings
 
