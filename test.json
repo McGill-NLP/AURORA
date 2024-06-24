@@ -1,0 +1,2660 @@
+[
+  {
+    "input": "data/magicbrush/images/242679/242679-input.png",
+    "mask": "242679-mask1.png",
+    "output": "data/magicbrush/images/242679/242679-output1.png",
+    "prompt": "Put a cat on the seat.",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/368667/368667-input.png",
+    "mask": "368667-mask1.png",
+    "output": "data/magicbrush/images/368667/368667-output1.png",
+    "prompt": "Have there be a stream running through the field",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/368667/368667-output1.png",
+    "mask": "368667-mask2.png",
+    "output": "data/magicbrush/images/368667/368667-output2.png",
+    "prompt": "Add a giraffe in the field",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/368667/368667-output2.png",
+    "mask": "368667-mask3.png",
+    "output": "data/magicbrush/images/368667/368667-output3.png",
+    "prompt": "Add a supernova explosion in the sky",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/385042/385042-input.png",
+    "mask": "385042-mask1.png",
+    "output": "data/magicbrush/images/385042/385042-output1.png",
+    "prompt": "Make the hydrant all white.",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/385042/385042-output1.png",
+    "mask": "385042-mask2.png",
+    "output": "data/magicbrush/images/385042/385042-output2.png",
+    "prompt": "Put the hydrant on asphalt.",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/385042/385042-output2.png",
+    "mask": "385042-mask3.png",
+    "output": "data/magicbrush/images/385042/385042-output3.png",
+    "prompt": "Add a leashed dog to the hydrant.",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/483348/483348-input.png",
+    "mask": "483348-mask1.png",
+    "output": "data/magicbrush/images/483348/483348-output1.png",
+    "prompt": "Put down the seat.",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/483348/483348-output1.png",
+    "mask": "483348-mask2.png",
+    "output": "data/magicbrush/images/483348/483348-output2.png",
+    "prompt": "Put a frog in the toilet.",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/483348/483348-output2.png",
+    "mask": "483348-mask3.png",
+    "output": "data/magicbrush/images/483348/483348-output3.png",
+    "prompt": "Repair the floor.",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/141946/141946-input.png",
+    "mask": "141946-mask1.png",
+    "output": "data/magicbrush/images/141946/141946-output1.png",
+    "prompt": "let the laptop screen be blank",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/141946/141946-output1.png",
+    "mask": "141946-mask2.png",
+    "output": "data/magicbrush/images/141946/141946-output2.png",
+    "prompt": "let the chair be red",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/141946/141946-output2.png",
+    "mask": "141946-mask3.png",
+    "output": "data/magicbrush/images/141946/141946-output3.png",
+    "prompt": "let the desktop be black",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/408425/408425-input.png",
+    "mask": "408425-mask1.png",
+    "output": "data/magicbrush/images/408425/408425-output1.png",
+    "prompt": "change the bright lime green curtains to white curtains",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/408425/408425-output1.png",
+    "mask": "408425-mask2.png",
+    "output": "data/magicbrush/images/408425/408425-output2.png",
+    "prompt": "change the bed to a bean bag",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/408425/408425-output2.png",
+    "mask": "408425-mask3.png",
+    "output": "data/magicbrush/images/408425/408425-output3.png",
+    "prompt": "let the table be wooden",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/352290/352290-input.png",
+    "mask": "352290-mask1.png",
+    "output": "data/magicbrush/images/352290/352290-output1.png",
+    "prompt": "What if the horse was using a hat?",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/352290/352290-output1.png",
+    "mask": "352290-mask2.png",
+    "output": "data/magicbrush/images/352290/352290-output2.png",
+    "prompt": "Let's add birds to the sky",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/385037/385037-input.png",
+    "mask": "385037-mask1.png",
+    "output": "data/magicbrush/images/385037/385037-output1.png",
+    "prompt": "Remove the man.",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/385037/385037-output1.png",
+    "mask": "385037-mask2.png",
+    "output": "data/magicbrush/images/385037/385037-output2.png",
+    "prompt": "Make the woman obese.",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/385037/385037-output2.png",
+    "mask": "385037-mask3.png",
+    "output": "data/magicbrush/images/385037/385037-output3.png",
+    "prompt": "Give the woman a helmet.",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/464144/464144-input.png",
+    "mask": "464144-mask1.png",
+    "output": "data/magicbrush/images/464144/464144-output1.png",
+    "prompt": "Let a boy ski.",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/578213/578213-input.png",
+    "mask": "578213-mask1.png",
+    "output": "data/magicbrush/images/578213/578213-output1.png",
+    "prompt": "put banana shaped candles in the candle holder",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/127515/127515-input.png",
+    "mask": "127515-mask1.png",
+    "output": "data/magicbrush/images/127515/127515-output1.png",
+    "prompt": "let the player catch a ball",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/308332/308332-input.png",
+    "mask": "308332-mask1.png",
+    "output": "data/magicbrush/images/308332/308332-output1.png",
+    "prompt": "Have there be a mermaid in the picture on the wall",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/308332/308332-output1.png",
+    "mask": "308332-mask2.png",
+    "output": "data/magicbrush/images/308332/308332-output2.png",
+    "prompt": "Have the mermaid be reading a book",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/308332/308332-output2.png",
+    "mask": "308332-mask3.png",
+    "output": "data/magicbrush/images/308332/308332-output3.png",
+    "prompt": "Have there be a lobster on the bed",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/284725/284725-input.png",
+    "mask": "284725-mask1.png",
+    "output": "data/magicbrush/images/284725/284725-output1.png",
+    "prompt": "Remove the car in front of the bus.",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/284725/284725-output1.png",
+    "mask": "284725-mask2.png",
+    "output": "data/magicbrush/images/284725/284725-output2.png",
+    "prompt": "Put a small cat on top of the bus.",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/560472/560472-input.png",
+    "mask": "560472-mask1.png",
+    "output": "data/magicbrush/images/560472/560472-output1.png",
+    "prompt": "let there be patties in the pan",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/560472/560472-output1.png",
+    "mask": "560472-mask2.png",
+    "output": "data/magicbrush/images/560472/560472-output2.png",
+    "prompt": "let there be pancakes on the pan",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/560472/560472-output2.png",
+    "mask": "560472-mask3.png",
+    "output": "data/magicbrush/images/560472/560472-output3.png",
+    "prompt": "let there be a bottle of wine",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/441483/441483-input.png",
+    "mask": "441483-mask1.png",
+    "output": "data/magicbrush/images/441483/441483-output1.png",
+    "prompt": "Let the toilet bowl have a lid.",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/116518/116518-input.png",
+    "mask": "116518-mask1.png",
+    "output": "data/magicbrush/images/116518/116518-output1.png",
+    "prompt": "Make the teddy bear black.",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/116518/116518-output1.png",
+    "mask": "116518-mask2.png",
+    "output": "data/magicbrush/images/116518/116518-output2.png",
+    "prompt": "Have the dog lick the teddy bear.",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/116518/116518-output2.png",
+    "mask": "116518-mask3.png",
+    "output": "data/magicbrush/images/116518/116518-output3.png",
+    "prompt": "Put a dragonfly on the dog's ear.",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/103966/103966-input.png",
+    "mask": "103966-mask1.png",
+    "output": "data/magicbrush/images/103966/103966-output1.png",
+    "prompt": "replace the tennis rackets with a shovel",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/103966/103966-output1.png",
+    "mask": "103966-mask2.png",
+    "output": "data/magicbrush/images/103966/103966-output2.png",
+    "prompt": "change the bench into a wooden pew",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/103966/103966-output2.png",
+    "mask": "103966-mask3.png",
+    "output": "data/magicbrush/images/103966/103966-output3.png",
+    "prompt": "let there be a bucket of the dirt",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/258155/258155-input.png",
+    "mask": "258155-mask1.png",
+    "output": "data/magicbrush/images/258155/258155-output1.png",
+    "prompt": "Let the blanket be longer and hang over the bed.",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/495146/495146-input.png",
+    "mask": "495146-mask1.png",
+    "output": "data/magicbrush/images/495146/495146-output1.png",
+    "prompt": "Add a helicopter.",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/70491/70491-input.png",
+    "mask": "70491-mask1.png",
+    "output": "data/magicbrush/images/70491/70491-output1.png",
+    "prompt": "let the remote turn into a VR headset",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/70491/70491-output1.png",
+    "mask": "70491-mask2.png",
+    "output": "data/magicbrush/images/70491/70491-output2.png",
+    "prompt": "let there be a movie poster on the wall",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/70491/70491-output2.png",
+    "mask": "70491-mask3.png",
+    "output": "data/magicbrush/images/70491/70491-output3.png",
+    "prompt": "let there be a credit card on the table",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/296012/296012-input.png",
+    "mask": "296012-mask1.png",
+    "output": "data/magicbrush/images/296012/296012-output1.png",
+    "prompt": "transform the car into a red sports car",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/221187/221187-input.png",
+    "mask": "221187-mask1.png",
+    "output": "data/magicbrush/images/221187/221187-output1.png",
+    "prompt": "Change the banana to a microphone.",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/160864/160864-input.png",
+    "mask": "160864-mask1.png",
+    "output": "data/magicbrush/images/160864/160864-output1.png",
+    "prompt": "make the baseball players hold swords",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/160864/160864-output1.png",
+    "mask": "160864-mask2.png",
+    "output": "data/magicbrush/images/160864/160864-output2.png",
+    "prompt": "make the catcher laugh",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/160864/160864-output2.png",
+    "mask": "160864-mask3.png",
+    "output": "data/magicbrush/images/160864/160864-output3.png",
+    "prompt": "let the catcher wear a clown costume",
+    "task": "magicbrush"
+  },
+  {
+    "input": "data/magicbrush/images/51746/51746-input.png",
+    "mask": "51746-mask1.png",
+    "output": "data/magicbrush/images/51746/51746-output1.png",
+    "prompt": "change the white couch to a brown couch",
+    "task": "magicbrush"
+  },
+  {
+    "prompt": "Make her close the door",
+    "pos": "Make her open the door",
+    "input": "data/ag/images/ZY2B1.mp4_27_left.png",
+    "output": "data/ag/images/ZY2B1.mp4_27_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make her pick up the glass",
+    "pos": "Make her put down the glass",
+    "input": "data/ag/images/W4MEA.mp4_0_left.png",
+    "output": "data/ag/images/W4MEA.mp4_0_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make her close her jacket fully",
+    "pos": "Make her open her jacket slightly",
+    "input": "data/ag/images/6ALEL.mp4_3_left.png",
+    "output": "data/ag/images/6ALEL.mp4_3_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make him stand up",
+    "pos": "Make him sit down",
+    "input": "data/ag/images/V2MHO.mp4_18_left.png",
+    "output": "data/ag/images/V2MHO.mp4_18_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make her turn to the left",
+    "pos": "Make her face away",
+    "input": "data/ag/images/F5UVQ.mp4_6_left.png",
+    "output": "data/ag/images/F5UVQ.mp4_6_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make her stand up",
+    "pos": "Make her sit down",
+    "input": "data/ag/images/5RET1.mp4_0_left.png",
+    "output": "data/ag/images/5RET1.mp4_0_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make him lift up the plastic bag",
+    "pos": "Make him put down the plastic bag",
+    "input": "data/ag/images/8D4ZT.mp4_245_left.png",
+    "output": "data/ag/images/8D4ZT.mp4_245_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make the person stand up fully upright",
+    "pos": "Make the person bend down half-way",
+    "input": "data/ag/images/W1SRN.mp4_0_left.png",
+    "output": "data/ag/images/W1SRN.mp4_0_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Move his hands towards his face",
+    "pos": "Move his hands towards the table",
+    "input": "data/ag/images/4KOBZ.mp4_12_left.png",
+    "output": "data/ag/images/4KOBZ.mp4_12_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Drop the bags onto the floor",
+    "pos": "Hold onto the bags",
+    "input": "data/ag/images/I75CL.mp4_4_left.png",
+    "output": "data/ag/images/I75CL.mp4_4_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make him stand up",
+    "pos": "Make him bend down half-way",
+    "input": "data/ag/images/R2KI4.mp4_15_left.png",
+    "output": "data/ag/images/R2KI4.mp4_15_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Open the door",
+    "pos": "Close the door",
+    "input": "data/ag/images/HIJBX.mp4_16_left.png",
+    "output": "data/ag/images/HIJBX.mp4_16_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make the woman lean forward towards the stick",
+    "input": "data/ag/images/QIBAJ.mp4_37_left.png",
+    "output": "data/ag/images/QIBAJ.mp4_37_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make her face fully visible looking at the camera",
+    "pos": "Make her face partially visible looking to the right",
+    "input": "data/ag/images/LU82W.mp4_4_left.png",
+    "output": "data/ag/images/LU82W.mp4_4_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Show his hands on the plate to arrange the food",
+    "input": "data/ag/images/35ZZP.mp4_138_left.png",
+    "output": "data/ag/images/35ZZP.mp4_138_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Move both hands towards the cup",
+    "input": "data/ag/images/N4SA2.mp4_27_left.png",
+    "output": "data/ag/images/N4SA2.mp4_27_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make her stand up",
+    "pos": "Make her sit down",
+    "input": "data/ag/images/WJEVU.mp4_2_left.png",
+    "output": "data/ag/images/WJEVU.mp4_2_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make him fully close the drawer",
+    "pos": "Make him open the drawer",
+    "input": "data/ag/images/JJ47B.mp4_3_left.png",
+    "output": "data/ag/images/JJ47B.mp4_3_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Move the cloth up towards his face",
+    "pos": "Move the cloth down towards his lap",
+    "input": "data/ag/images/7614L.mp4_45_left.png",
+    "output": "data/ag/images/7614L.mp4_45_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make the person lean back further in their chair",
+    "pos": "Make the person sit straight in the chair",
+    "input": "data/ag/images/JJZ1X.mp4_4_left.png",
+    "output": "data/ag/images/JJZ1X.mp4_4_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make him lower both arms",
+    "input": "data/ag/images/9VZOY.mp4_39_left.png",
+    "output": "data/ag/images/9VZOY.mp4_39_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make him face towards the left",
+    "input": "data/ag/images/1FX8Q.mp4_20_left.png",
+    "output": "data/ag/images/1FX8Q.mp4_20_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make him close the door half way",
+    "input": "data/ag/images/6JLD4.mp4_12_left.png",
+    "output": "data/ag/images/6JLD4.mp4_12_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make her put the laptop down",
+    "input": "data/ag/images/XVI3M.mp4_9_left.png",
+    "output": "data/ag/images/XVI3M.mp4_9_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make her walk away from the table",
+    "pos": "Make her stand at the table",
+    "input": "data/ag/images/S2S7I.mp4_14_left.png",
+    "output": "data/ag/images/S2S7I.mp4_14_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make him turn facing towards the camera",
+    "pos": "Make him face to the right",
+    "input": "data/ag/images/VF3Y0.mp4_18_left.png",
+    "output": "data/ag/images/VF3Y0.mp4_18_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make him type on the laptop",
+    "input": "data/ag/images/X28IF.mp4_14_left.png",
+    "output": "data/ag/images/X28IF.mp4_14_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make the person step forward and close the door",
+    "pos": "Let the person stand in the doorway and open the door",
+    "input": "data/ag/images/3Q3YY.mp4_14_left.png",
+    "output": "data/ag/images/3Q3YY.mp4_14_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make him turn forward while keeping the orange cup on the surface",
+    "input": "data/ag/images/AUYOZ.mp4_44_left.png",
+    "output": "data/ag/images/AUYOZ.mp4_44_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make him put the plate down on the table",
+    "pos": "Make him pick the plate up from the table",
+    "input": "data/ag/images/THW67.mp4_89_left.png",
+    "output": "data/ag/images/THW67.mp4_89_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make him walk further towards the right",
+    "input": "data/ag/images/1VMZM.mp4_1_left.png",
+    "output": "data/ag/images/1VMZM.mp4_1_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make the person walk down the stairs",
+    "pos": "Make the person stand at the top of the stairs",
+    "input": "data/ag/images/14XKK.mp4_184_left.png",
+    "output": "data/ag/images/14XKK.mp4_184_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make her grab the book from the shelf",
+    "input": "data/ag/images/RH44U.mp4_92_left.png",
+    "output": "data/ag/images/RH44U.mp4_92_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make the man take a bite from the snack in his hand",
+    "input": "data/ag/images/J7TT5.mp4_9_left.png",
+    "output": "data/ag/images/J7TT5.mp4_9_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Move her hands with the bread down towards the table",
+    "pos": "Move her hands with the bread up towards her face",
+    "input": "data/ag/images/KNN3G.mp4_97_left.png",
+    "output": "data/ag/images/KNN3G.mp4_97_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make him put down the red shovel",
+    "pos": "Make him hold the red shovel",
+    "input": "data/ag/images/7614L.mp4_56_left.png",
+    "output": "data/ag/images/7614L.mp4_56_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Close the laundry machine door",
+    "pos": "Open the laundry machine door",
+    "input": "data/ag/images/RRDAM.mp4_9_left.png",
+    "output": "data/ag/images/RRDAM.mp4_9_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make the man partially stand up",
+    "input": "data/ag/images/ZVMAY.mp4_40_left.png",
+    "output": "data/ag/images/ZVMAY.mp4_40_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make the man turn around",
+    "pos": "Make the man turn away",
+    "input": "data/ag/images/FVPMC.mp4_113_left.png",
+    "output": "data/ag/images/FVPMC.mp4_113_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make the man put down the book on the sofa",
+    "pos": "Make the man pick up the book from the sofa",
+    "input": "data/ag/images/2KGV3.mp4_126_left.png",
+    "output": "data/ag/images/2KGV3.mp4_126_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make the person lift their left leg up",
+    "pos": "Make the person put their left leg down",
+    "input": "data/ag/images/WXC7V.mp4_13_left.png",
+    "output": "data/ag/images/WXC7V.mp4_13_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make the person spread their arms wide to both sides",
+    "pos": "Make the person put their arms down",
+    "input": "data/ag/images/9PAQ4.mp4_8_left.png",
+    "output": "data/ag/images/9PAQ4.mp4_8_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make them look at the shelf behind them",
+    "pos": "Make them look at the sink left of them",
+    "input": "data/ag/images/BWZL2.mp4_26_left.png",
+    "output": "data/ag/images/BWZL2.mp4_26_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Open the door fully",
+    "input": "data/ag/images/YK49T.mp4_41_left.png",
+    "output": "data/ag/images/YK49T.mp4_41_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Open the door",
+    "pos": "Close the door",
+    "input": "data/ag/images/KWQKH.mp4_8_left.png",
+    "output": "data/ag/images/KWQKH.mp4_8_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make them stand up",
+    "pos": "Make them bend down half-way",
+    "input": "data/ag/images/YIK5I.mp4_92_left.png",
+    "output": "data/ag/images/YIK5I.mp4_92_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Put down the black piece of clothing onto the floor",
+    "pos": "Hold up the black piece of clothing",
+    "input": "data/ag/images/VIN5T.mp4_5_left.png",
+    "output": "data/ag/images/VIN5T.mp4_5_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make her sit down fully cross-legged reading the book",
+    "input": "data/ag/images/O1LOW.mp4_41_left.png",
+    "output": "data/ag/images/O1LOW.mp4_41_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make them close the curtains",
+    "input": "data/ag/images/MFGLZ.mp4_30_left.png",
+    "output": "data/ag/images/MFGLZ.mp4_30_right.png",
+    "task": "ag"
+  },
+  {
+    "prompt": "Make them stand up fully upright looking at their hands",
+    "input": "data/ag/images/MZ3I3.mp4_67_left.png",
+    "output": "data/ag/images/MZ3I3.mp4_67_right.png",
+    "task": "ag"
+  },
+  {
+    "id": "36",
+    "prompt": "Make remote fall down",
+    "pos": "Make remote stand up",
+    "input": "data/something/images/36/first.jpg",
+    "output": "data/something/images/36/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "106",
+    "prompt": "Open waste basket",
+    "pos": "Close waste basket",
+    "input": "data/something/images/106/first.jpg",
+    "output": "data/something/images/106/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "206",
+    "prompt": "Unfold cloth",
+    "pos": "Fold cloth",
+    "input": "data/something/images/206/first.jpg",
+    "output": "data/something/images/206/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "220",
+    "prompt": "Drop a peg next to the wallet",
+    "input": "data/something/images/220/first.jpg",
+    "output": "data/something/images/220/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "219962",
+    "prompt": "Move hand away from container",
+    "pos": "Move hand towards container",
+    "input": "data/something/images/219962/first.jpg",
+    "output": "data/something/images/219962/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "219925",
+    "prompt": "Move medicine bottle closer to the edge",
+    "input": "data/something/images/219925/first.jpg",
+    "output": "data/something/images/219925/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "219866",
+    "prompt": "Add an orange",
+    "input": "data/something/images/219866/first.jpg",
+    "output": "data/something/images/219866/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "219411",
+    "prompt": "Lift the surface up on the left side",
+    "input": "data/something/images/219411/first.jpg",
+    "output": "data/something/images/219411/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "219259",
+    "prompt": "Make the shampoo bottle fall down and land horizontally",
+    "pos": "Make the shampoo bottle stand up vertically",
+    "input": "data/something/images/219259/first.jpg",
+    "output": "data/something/images/219259/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "218705",
+    "prompt": "Flip the bottle upside down",
+    "pos": "Make the bottle stand normally",
+    "input": "data/something/images/218705/first.jpg",
+    "output": "data/something/images/218705/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "218699",
+    "prompt": "Put keys into bowl",
+    "input": "data/something/images/218699/first.jpg",
+    "output": "data/something/images/218699/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "218363",
+    "prompt": "Add lid onto jar",
+    "pos": "Remove lid from jar",
+    "input": "data/something/images/218363/first.jpg",
+    "output": "data/something/images/218363/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "218016",
+    "prompt": "Lift phone up",
+    "pos": "Put phone down",
+    "input": "data/something/images/218016/first.jpg",
+    "output": "data/something/images/218016/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "217555",
+    "prompt": "Flip the bottle upside down",
+    "pos": "Make the bottle stand normally",
+    "input": "data/something/images/217555/first.jpg",
+    "output": "data/something/images/217555/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "217432",
+    "prompt": "Put wallet next to remote",
+    "input": "data/something/images/217432/first.jpg",
+    "output": "data/something/images/217432/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "217421",
+    "prompt": "Tear paper apart",
+    "pos": "Keep paper intact",
+    "input": "data/something/images/217421/first.jpg",
+    "output": "data/something/images/217421/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "217177",
+    "prompt": "Tear the paper into two pieces",
+    "pos": "Keep the paper intact",
+    "input": "data/something/images/217177/first.jpg",
+    "output": "data/something/images/217177/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "217129",
+    "prompt": "Twist the cloth",
+    "pos": "Keep the cloth straight",
+    "input": "data/something/images/217129/first.jpg",
+    "output": "data/something/images/217129/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "217077",
+    "prompt": "Move the cutting board in front of the clock",
+    "input": "data/something/images/217077/first.jpg",
+    "output": "data/something/images/217077/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "217013",
+    "prompt": "Drop the glass on top of the pills",
+    "pos": "Let the glass stand on the table",
+    "input": "data/something/images/217013/first.jpg",
+    "output": "data/something/images/217013/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "216998",
+    "prompt": "Put the book down on the table and remove the hand",
+    "pos": "Pick the book up from the table with the hand",
+    "input": "data/something/images/216998/first.jpg",
+    "output": "data/something/images/216998/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "216970",
+    "prompt": "Put a comb into the box",
+    "input": "data/something/images/216970/first.jpg",
+    "output": "data/something/images/216970/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "216852",
+    "prompt": "Tear the paper apart into two pieces",
+    "pos": "Keep the paper intact",
+    "input": "data/something/images/216852/first.jpg",
+    "output": "data/something/images/216852/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "216236",
+    "prompt": "Stuffing the paper into the cup",
+    "pos": "Take the paper out of the cup",
+    "input": "data/something/images/216236/first.jpg",
+    "output": "data/something/images/216236/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "216153",
+    "prompt": "Push the chair closer to the desk",
+    "input": "data/something/images/216153/first.jpg",
+    "output": "data/something/images/216153/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "216106",
+    "prompt": "Move the candles close to each other",
+    "pos": "Move the candles far apart from each other",
+    "input": "data/something/images/216106/first.jpg",
+    "output": "data/something/images/216106/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "216074",
+    "prompt": "moving nail clipper and sponge closer to each other",
+    "input": "data/something/images/216074/first.jpg",
+    "output": "data/something/images/216074/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "216042",
+    "prompt": "Flip the bottle upside down",
+    "pos": "Make the bottle stand normally",
+    "input": "data/something/images/216042/first.jpg",
+    "output": "data/something/images/216042/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "215962",
+    "prompt": "Tear the paper into two pieces",
+    "pos": "Keep the paper intact",
+    "input": "data/something/images/215962/first.jpg",
+    "output": "data/something/images/215962/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "215692",
+    "prompt": "Tipping sign over",
+    "pos": "Make sign stand straight",
+    "input": "data/something/images/215692/first.jpg",
+    "output": "data/something/images/215692/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "215668",
+    "prompt": "Moving cup away from pen",
+    "pos": "Moving cup closer to pen",
+    "input": "data/something/images/215668/first.jpg",
+    "output": "data/something/images/215668/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "215405",
+    "prompt": "Dropping the battery next to the mug",
+    "input": "data/something/images/215405/first.jpg",
+    "output": "data/something/images/215405/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "215371",
+    "prompt": "Tear the paper apart into two pieces",
+    "pos": "Keep the paper intact",
+    "input": "data/something/images/215371/first.jpg",
+    "output": "data/something/images/215371/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "215270",
+    "prompt": "Flip the cup upside down",
+    "pos": "Make the cup stand normally",
+    "input": "data/something/images/215270/first.jpg",
+    "output": "data/something/images/215270/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "215221",
+    "prompt": "Take one match box away",
+    "input": "data/something/images/215221/first.jpg",
+    "output": "data/something/images/215221/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "214831",
+    "prompt": "Putting the bottle upright",
+    "pos": "Putting the bottle horizontally",
+    "input": "data/something/images/214831/first.jpg",
+    "output": "data/something/images/214831/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "214816",
+    "prompt": "Making the marker fall down to lie horizontally",
+    "pos": "Making the marker stand up vertically",
+    "input": "data/something/images/214816/first.jpg",
+    "output": "data/something/images/214816/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "214773",
+    "prompt": "Tear paper apart",
+    "pos": "Keep paper intact",
+    "input": "data/something/images/214773/first.jpg",
+    "output": "data/something/images/214773/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "214723",
+    "prompt": "Remove the black marker",
+    "input": "data/something/images/214723/first.jpg",
+    "output": "data/something/images/214723/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "214198",
+    "prompt": "Putting egg into the bowl",
+    "input": "data/something/images/214198/first.jpg",
+    "output": "data/something/images/214198/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "214157",
+    "prompt": "Adding another coaster of the same type",
+    "input": "data/something/images/214157/first.jpg",
+    "output": "data/something/images/214157/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "214021",
+    "prompt": "Lifting up the purse with a hand",
+    "pos": "Putting the purse down",
+    "input": "data/something/images/214021/first.jpg",
+    "output": "data/something/images/214021/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "213978",
+    "prompt": "Plugging USB into the port fully",
+    "input": "data/something/images/213978/first.jpg",
+    "output": "data/something/images/213978/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "213751",
+    "prompt": "Opening the book with the hands",
+    "pos": "Keeping the book closed",
+    "input": "data/something/images/213751/first.jpg",
+    "output": "data/something/images/213751/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "213743",
+    "prompt": "Putting a bottle and card on the table",
+    "input": "data/something/images/213743/first.jpg",
+    "output": "data/something/images/213743/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "213518",
+    "prompt": "Lift her hands up to show a piece of paper",
+    "pos": "Put her hands down to hide a piece of paper",
+    "input": "data/something/images/213518/first.jpg",
+    "output": "data/something/images/213518/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "213403",
+    "prompt": "Wiping further towards the left with the cloth",
+    "input": "data/something/images/213403/first.jpg",
+    "output": "data/something/images/213403/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "213316",
+    "prompt": "Remove the lid of the left bottle with the hand",
+    "pos": "Put the lid onto the left bottle with the hand",
+    "input": "data/something/images/213316/first.jpg",
+    "output": "data/something/images/213316/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "213259",
+    "prompt": "Rip paper apart into two pieces",
+    "pos": "Keep paper intact",
+    "input": "data/something/images/213259/first.jpg",
+    "output": "data/something/images/213259/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "213068",
+    "prompt": "Add a hand that pushes the hat further to the right",
+    "input": "data/something/images/213068/first.jpg",
+    "output": "data/something/images/213068/last.jpg",
+    "task": "something"
+  },
+  {
+    "id": "005422",
+    "prompt": "the tiny yellow cylinder turns brown",
+    "input": "data/clevr/images/CLEVR_default_005422.png",
+    "pos": "move the blue small ball behind the brown cube",
+    "neg": "move the blue small ball in front of the brown cube",
+    "task": "clevr"
+  },
+  {
+    "id": "000031",
+    "prompt": "change the large green matte ball behind the large shiny cylinder to red",
+    "input": "data/clevr/images/CLEVR_default_000031.png",
+    "pos": "change the color of the matte cylinder in the front to cyan",
+    "neg": "change the color of the matte cylinder in the front to red",
+    "task": "clevr"
+  },
+  {
+    "id": "033588",
+    "prompt": "move the large purple metal ball to the left of the yellow cube",
+    "pos": "move the large purple metal ball to the behind the red cylinder",
+    "input": "data/clevr/images/CLEVR_default_033588.png",
+    "task": "clevr"
+  },
+  {
+    "id": "035238",
+    "prompt": "move the green ball to the right of the brown cylinder",
+    "input": "data/clevr/images/CLEVR_default_035238.png",
+    "pos": "make the large cylinder brown",
+    "neg": "make the large cylinder red",
+    "task": "clevr"
+  },
+  {
+    "id": "003468",
+    "prompt": "the large red rubber ball that is to the right of the green matte object becomes gray",
+    "input": "data/clevr/images/CLEVR_default_003468.png",
+    "pos": "make the shiny cube yellow",
+    "neg": "make the shiny cube green",
+    "task": "clevr"
+  },
+  {
+    "id": "000831",
+    "prompt": "the cyan shiny cylinder turns purple",
+    "input": "data/clevr/images/CLEVR_default_000831.png",
+    "pos": "the small ball turns gray",
+    "neg": "the small ball turns red",
+    "task": "clevr"
+  },
+  {
+    "id": "007896",
+    "prompt": "the tiny blue thing changes to red",
+    "input": "data/clevr/images/CLEVR_default_007896.png",
+    "pos": "the cube in the middle turns red",
+    "neg": "the cube in the middle turns green",
+    "task": "clevr"
+  },
+  {
+    "id": "027232",
+    "prompt": "remove the small green block",
+    "input": "data/clevr/images/CLEVR_default_027232.png",
+    "pos": "remove the small green block",
+    "neg": "remove the small brown block",
+    "task": "clevr"
+  },
+  {
+    "id": "001220",
+    "prompt": "turn the small gray metallic cylinder behind the purple metallic thing brown",
+    "input": "data/clevr/images/CLEVR_default_001220.png",
+    "pos": "turn the cylinder on the left cyan",
+    "neg": "turn the cylinder on the right cyan",
+    "task": "clevr"
+  },
+  {
+    "id": "004473",
+    "prompt": "the red cylinder becomes green",
+    "input": "data/clevr/images/CLEVR_default_004473.png",
+    "pos": "move the yellow shiny ball to the right of the red cylinder",
+    "neg": "move the yellow shiny ball to the left of the red cylinder",
+    "task": "clevr"
+  },
+  {
+    "id": "012381",
+    "prompt": "make the surface of red cylinder matte",
+    "input": "data/clevr/images/CLEVR_default_012381.png",
+    "pos": "make the surface of red cylinder shiny",
+    "task": "clevr"
+  },
+  {
+    "id": "031028",
+    "prompt": "remove the large brown cube left of the large blue matte cylinder",
+    "input": "data/clevr/images/CLEVR_default_031028.png",
+    "pos": "remove all red objects",
+    "neg": "remove all green objects",
+    "task": "clevr"
+  },
+  {
+    "id": "014155",
+    "prompt": "make the gray rubber object shiny",
+    "input": "data/clevr/images/CLEVR_default_014155.png",
+    "pos": "make the gray rubber object matte",
+    "task": "clevr"
+  },
+  {
+    "id": "001827",
+    "prompt": "the cylinder becomes gray",
+    "pos": "the cylinder becomes brown",
+    "input": "data/clevr/images/CLEVR_default_001827.png",
+    "neg": "the cylinder becomes brown",
+    "task": "clevr"
+  },
+  {
+    "id": "005025",
+    "prompt": "Turn the blue cube gray",
+    "input": "data/clevr/images/CLEVR_default_005025.png",
+    "pos": "Move the yellow ball in front of the large purple cube",
+    "neg": "Move the yellow ball to the right of the large purple cube",
+    "task": "clevr"
+  },
+  {
+    "id": "004838",
+    "prompt": "the tiny yellow object turns purple",
+    "input": "data/clevr/images/CLEVR_default_004838.png",
+    "pos": "the small cube turns gray",
+    "neg": "the small cube turns red",
+    "task": "clevr"
+  },
+  {
+    "id": "019598",
+    "prompt": "add a red large sphere",
+    "input": "data/clevr/images/CLEVR_default_019598.png",
+    "pos": "remove a red large sphere",
+    "task": "clevr"
+  },
+  {
+    "id": "037672",
+    "prompt": "move the green sphere in front of the red small sphere",
+    "pos": "move the green sphere to the right of the yellow sphere",
+    "input": "data/clevr/images/CLEVR_default_037672.png",
+    "task": "clevr"
+  },
+  {
+    "id": "029712",
+    "prompt": "remove the green shiny block",
+    "pos": "remove the red shiny block",
+    "input": "data/clevr/images/CLEVR_default_029712.png",
+    "task": "clevr"
+  },
+  {
+    "id": "038145",
+    "prompt": "move the large blue sphere to the right of the red cube",
+    "pos": "move the large blue sphere in front of the red cube",
+    "input": "data/clevr/images/CLEVR_default_038145.png",
+    "task": "clevr"
+  },
+  {
+    "id": "015982",
+    "prompt": "the gray metal block becomes matte",
+    "input": "data/clevr/images/CLEVR_default_015982.png",
+    "pos": "remove all red objects",
+    "neg": "remove all yellow objects",
+    "task": "clevr"
+  },
+  {
+    "id": "038036",
+    "prompt": "move the brown sphere to the right of the purple block",
+    "input": "data/clevr/images/CLEVR_default_038036.png",
+    "pos": "move the purple large block in front of all the objects",
+    "neg": "move the purple large block behind all the objects",
+    "task": "clevr"
+  },
+  {
+    "id": "025311",
+    "prompt": "the big yellow rubber cylinder behind the cyan rubber cylinder is now no longer there",
+    "input": "data/clevr/images/CLEVR_default_025311.png",
+    "pos": "the big red rubber cube behind the cyan rubber cylinder is now no longer there",
+    "task": "clevr"
+  },
+  {
+    "id": "008461",
+    "prompt": "the metallic block changes to a matte surface",
+    "input": "data/clevr/images/CLEVR_default_008461.png",
+    "task": "clevr"
+  },
+  {
+    "id": "022978",
+    "prompt": "add a small red cube",
+    "input": "data/clevr/images/CLEVR_default_022978.png",
+    "task": "clevr"
+  },
+  {
+    "id": "000711",
+    "prompt": "the large blue rubber cube on the left side of the gray matte cylinder is now cyan",
+    "input": "data/clevr/images/CLEVR_default_000711.png",
+    "task": "clevr"
+  },
+  {
+    "id": "005585",
+    "prompt": "make the tiny rubber ball a gray color",
+    "input": "data/clevr/images/CLEVR_default_005585.png",
+    "task": "clevr"
+  },
+  {
+    "id": "030422",
+    "prompt": "remove the tiny blue metallic cylinder",
+    "input": "data/clevr/images/CLEVR_default_030422.png",
+    "task": "clevr"
+  },
+  {
+    "id": "010651",
+    "prompt": "make all purple objects disappear",
+    "pos": "make all red objects disappear",
+    "input": "data/clevr/images/CLEVR_default_010651.png",
+    "task": "clevr"
+  },
+  {
+    "id": "011377",
+    "prompt": "make the red cube larger",
+    "input": "data/clevr/images/CLEVR_default_011377.png",
+    "task": "clevr"
+  },
+  {
+    "id": "007141",
+    "prompt": "make the big green rubber cylinder turn purple",
+    "input": "data/clevr/images/CLEVR_default_007141.png",
+    "task": "clevr"
+  },
+  {
+    "id": "006137",
+    "prompt": "the yellow object changes color to green",
+    "input": "data/clevr/images/CLEVR_default_006137.png",
+    "task": "clevr"
+  },
+  {
+    "id": "031913",
+    "prompt": "remove the tiny blue matte ball",
+    "pos": "remove the tiny red matte ball",
+    "input": "data/clevr/images/CLEVR_default_031913.png",
+    "task": "clevr"
+  },
+  {
+    "id": "008307",
+    "prompt": "make the purple sphere smaller",
+    "input": "data/clevr/images/CLEVR_default_008307.png",
+    "task": "clevr"
+  },
+  {
+    "id": "007889",
+    "prompt": "the large gray metal cylinder to the right of the cyan thing turns brown",
+    "input": "data/clevr/images/CLEVR_default_007889.png",
+    "task": "clevr"
+  },
+  {
+    "id": "020926",
+    "prompt": "add a small gray rubber ball on the right side",
+    "input": "data/clevr/images/CLEVR_default_020926.png",
+    "task": "clevr"
+  },
+  {
+    "id": "019092",
+    "prompt": "remove all red objects",
+    "pos": "remove all green objects",
+    "input": "data/clevr/images/CLEVR_default_019092.png",
+    "task": "clevr"
+  },
+  {
+    "id": "012697",
+    "prompt": "the yellow matte rubber block now gets metallic surface",
+    "input": "data/clevr/images/CLEVR_default_012697.png",
+    "task": "clevr"
+  },
+  {
+    "id": "029795",
+    "prompt": "remove the the big gray shiny ball",
+    "pos": "remove the the big red shiny ball",
+    "input": "data/clevr/images/CLEVR_default_029795.png",
+    "task": "clevr"
+  },
+  {
+    "id": "000125",
+    "prompt": "the big metal sphere becomes gray",
+    "input": "data/clevr/images/CLEVR_default_000125.png",
+    "task": "clevr"
+  },
+  {
+    "id": "032084",
+    "prompt": "move the purple cube in front of the red ball",
+    "input": "data/clevr/images/CLEVR_default_032084.png",
+    "task": "clevr"
+  },
+  {
+    "id": "006040",
+    "prompt": "the small gray rubber cylinder becomes brown",
+    "input": "data/clevr/images/CLEVR_default_006040.png",
+    "task": "clevr"
+  },
+  {
+    "id": "018004",
+    "prompt": "remove all red objects",
+    "pos": "remove all green objects",
+    "input": "data/clevr/images/CLEVR_default_018004.png",
+    "task": "clevr"
+  },
+  {
+    "id": "013680",
+    "prompt": "the cyan object turns shiny",
+    "input": "data/clevr/images/CLEVR_default_013680.png",
+    "task": "clevr"
+  },
+  {
+    "id": "007014",
+    "prompt": "the yellow object changes to purple",
+    "input": "data/clevr/images/CLEVR_default_007014.png",
+    "task": "clevr"
+  },
+  {
+    "id": "032614",
+    "prompt": "move the red cylinder to the right of the gray block",
+    "input": "data/clevr/images/CLEVR_default_032614.png",
+    "task": "clevr"
+  },
+  {
+    "id": "027258",
+    "prompt": "remove the brown matte sphere",
+    "pos": "remove the green matte sphere",
+    "input": "data/clevr/images/CLEVR_default_027258.png",
+    "task": "clevr"
+  },
+  {
+    "id": "021346",
+    "prompt": "add a tiny yellow metal ball on the left side of the yellow cylinder",
+    "input": "data/clevr/images/CLEVR_default_021346.png",
+    "task": "clevr"
+  },
+  {
+    "id": "027358",
+    "prompt": "remove the small gray metallic cylinder",
+    "input": "data/clevr/images/CLEVR_default_027358.png",
+    "task": "clevr"
+  },
+  {
+    "id": "025070",
+    "prompt": "remove the tiny blue shiny object",
+    "pos": "remove the tiny green shiny object",
+    "input": "data/clevr/images/CLEVR_default_025070.png",
+    "task": "clevr"
+  },
+  {
+    "input": "data/whatsup/images/dragonfruit_on_table.jpeg",
+    "output": "data/whatsup/images/dragonfruit_under_table.jpeg",
+    "caption": "A dragonfruit under a table",
+    "prompt": "Move the dragonfruit under the table",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/cup_in-front_of_remote.jpeg",
+    "output": "data/whatsup/images/cup_left_of_remote.jpeg",
+    "caption": "A cup to the left of a remote",
+    "prompt": "Move the cup to the left of the remote",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/book_on_chair.jpeg",
+    "output": "data/whatsup/images/book_left_of_chair.jpeg",
+    "caption": "A book to the left of a chair",
+    "prompt": "Move the book to the left of the chair",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/helmet_on_table.jpeg",
+    "output": "data/whatsup/images/helmet_under_table.jpeg",
+    "caption": "A helmet under a table",
+    "prompt": "Move the helmet under the table",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/pot_on_chair.jpeg",
+    "output": "data/whatsup/images/pot_right_of_chair.jpeg",
+    "caption": "A pot to the right of a chair",
+    "prompt": "Move the pot to the right of the chair",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/sunglasses_on_chair.jpeg",
+    "output": "data/whatsup/images/sunglasses_under_chair.jpeg",
+    "caption": "A sunglasses under a chair",
+    "prompt": "Move the sunglasses under the chair",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/bowl_behind_headphones.jpeg",
+    "output": "data/whatsup/images/bowl_right_of_headphones.jpeg",
+    "caption": "A bowl to the right of a headphones",
+    "prompt": "Move the bowl to the right of the headphones",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/remote_in-front_of_headphones.jpeg",
+    "output": "data/whatsup/images/remote_right_of_headphones.jpeg",
+    "caption": "A remote to the right of a headphones",
+    "prompt": "Move the remote to the right of the headphones",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/remote_in-front_of_tape.jpeg",
+    "output": "data/whatsup/images/remote_left_of_tape.jpeg",
+    "caption": "A remote to the left of a tape",
+    "prompt": "Move the remote to the left of the tape",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/bowl_left_of_armchair.jpeg",
+    "output": "data/whatsup/images/bowl_on_armchair.jpeg",
+    "caption": "A bowl on a armchair",
+    "prompt": "Move the bowl on the armchair",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/book_left_of_flower.jpeg",
+    "output": "data/whatsup/images/book_behind_flower.jpeg",
+    "caption": "A book behind a flower",
+    "prompt": "Move the book behind the flower",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/book_left_of_table.jpeg",
+    "output": "data/whatsup/images/book_under_table.jpeg",
+    "caption": "A book under a table",
+    "prompt": "Move the book under the table",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/book_in-front_of_knife.jpeg",
+    "output": "data/whatsup/images/book_behind_knife.jpeg",
+    "caption": "A book behind a knife",
+    "prompt": "Move the book behind the knife",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/kettle_on_chair.jpeg",
+    "output": "data/whatsup/images/kettle_right_of_chair.jpeg",
+    "caption": "A kettle to the right of a chair",
+    "prompt": "Move the kettle to the right of the chair",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/plate_right_of_candle.jpeg",
+    "output": "data/whatsup/images/plate_left_of_candle.jpeg",
+    "caption": "A plate to the left of a candle",
+    "prompt": "Move the plate to the left of the candle",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/yarn_under_armchair.jpeg",
+    "output": "data/whatsup/images/yarn_right_of_armchair.jpeg",
+    "caption": "A yarn to the right of a armchair",
+    "prompt": "Move the yarn to the right of the armchair",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/remote_right_of_candle.jpeg",
+    "output": "data/whatsup/images/remote_left_of_candle.jpeg",
+    "caption": "A remote to the left of a candle",
+    "prompt": "Move the remote to the left of the candle",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/mug_left_of_headphones.jpeg",
+    "output": "data/whatsup/images/mug_right_of_headphones.jpeg",
+    "caption": "A mug to the right of a headphones",
+    "prompt": "Move the mug to the right of the headphones",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/cap_in-front_of_candle.jpeg",
+    "output": "data/whatsup/images/cap_right_of_candle.jpeg",
+    "caption": "A cap to the right of a candle",
+    "prompt": "Move the cap to the right of the candle",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/book_behind_headphones.jpeg",
+    "output": "data/whatsup/images/book_left_of_headphones.jpeg",
+    "caption": "A book to the left of a headphones",
+    "prompt": "Move the book to the left of the headphones",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/can_behind_knife.jpeg",
+    "output": "data/whatsup/images/can_right_of_knife.jpeg",
+    "caption": "A can to the right of a knife",
+    "prompt": "Move the can to the right of the knife",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/mug_behind_plate.jpeg",
+    "output": "data/whatsup/images/mug_right_of_plate.jpeg",
+    "caption": "A mug to the right of a plate",
+    "prompt": "Move the mug to the right of the plate",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/lemon_on_table.jpeg",
+    "output": "data/whatsup/images/lemon_right_of_table.jpeg",
+    "caption": "A lemon to the right of a table",
+    "prompt": "Move the lemon to the right of the table",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/mug_in-front_of_bowl.jpeg",
+    "output": "data/whatsup/images/mug_left_of_bowl.jpeg",
+    "caption": "A mug to the left of a bowl",
+    "prompt": "Move the mug to the left of the bowl",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/book_left_of_cap.jpeg",
+    "output": "data/whatsup/images/book_right_of_cap.jpeg",
+    "caption": "A book to the right of a cap",
+    "prompt": "Move the book to the right of the cap",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/bowl_right_of_spoon.jpeg",
+    "output": "data/whatsup/images/bowl_behind_spoon.jpeg",
+    "caption": "A bowl behind a spoon",
+    "prompt": "Move the bowl behind the spoon",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/can_in-front_of_tape.jpeg",
+    "output": "data/whatsup/images/can_left_of_tape.jpeg",
+    "caption": "A can to the left of a tape",
+    "prompt": "Move the can to the left of the tape",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/mug_in-front_of_knife.jpeg",
+    "output": "data/whatsup/images/mug_right_of_knife.jpeg",
+    "caption": "A mug to the right of a knife",
+    "prompt": "Move the mug to the right of the knife",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/pillow_right_of_armchair.jpeg",
+    "output": "data/whatsup/images/pillow_under_armchair.jpeg",
+    "caption": "A pillow under a armchair",
+    "prompt": "Move the pillow under the armchair",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/laptop_under_chair.jpeg",
+    "output": "data/whatsup/images/laptop_on_chair.jpeg",
+    "caption": "A laptop on a chair",
+    "prompt": "Move the laptop on the chair",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/bowl_left_of_table.jpeg",
+    "output": "data/whatsup/images/bowl_under_table.jpeg",
+    "caption": "A bowl under a table",
+    "prompt": "Move the bowl under the table",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/plate_in-front_of_phone.jpeg",
+    "output": "data/whatsup/images/plate_left_of_phone.jpeg",
+    "caption": "A plate to the left of a phone",
+    "prompt": "Move the plate to the left of the phone",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/book_right_of_cup.jpeg",
+    "output": "data/whatsup/images/book_left_of_cup.jpeg",
+    "caption": "A book to the left of a cup",
+    "prompt": "Move the book to the left of the cup",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/oven-mitt_right_of_chair.jpeg",
+    "output": "data/whatsup/images/oven-mitt_under_chair.jpeg",
+    "caption": "A oven mitt under a chair",
+    "prompt": "Move the oven mitt under the chair",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/book_behind_headphones.jpeg",
+    "output": "data/whatsup/images/book_right_of_headphones.jpeg",
+    "caption": "A book to the right of a headphones",
+    "prompt": "Move the book to the right of the headphones",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/can_right_of_knife.jpeg",
+    "output": "data/whatsup/images/can_left_of_knife.jpeg",
+    "caption": "A can to the left of a knife",
+    "prompt": "Move the can to the left of the knife",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/bowl_left_of_spoon.jpeg",
+    "output": "data/whatsup/images/bowl_behind_spoon.jpeg",
+    "caption": "A bowl behind a spoon",
+    "prompt": "Move the bowl behind the spoon",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/lamp_under_table.jpeg",
+    "output": "data/whatsup/images/lamp_right_of_table.jpeg",
+    "caption": "A lamp to the right of a table",
+    "prompt": "Move the lamp to the right of the table",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/bowl_behind_remote.jpeg",
+    "output": "data/whatsup/images/bowl_left_of_remote.jpeg",
+    "caption": "A bowl to the left of a remote",
+    "prompt": "Move the bowl to the left of the remote",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/dog_on_table.jpeg",
+    "output": "data/whatsup/images/dog_right_of_table.jpeg",
+    "caption": "A dog to the right of a table",
+    "prompt": "Move the dog to the right of the table",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/mug_on_table.jpeg",
+    "output": "data/whatsup/images/mug_right_of_table.jpeg",
+    "caption": "A mug to the right of a table",
+    "prompt": "Move the mug to the right of the table",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/plate_left_of_bowl.jpeg",
+    "output": "data/whatsup/images/plate_behind_bowl.jpeg",
+    "caption": "A plate behind a bowl",
+    "prompt": "Move the plate behind the bowl",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/painting_right_of_chair.jpeg",
+    "output": "data/whatsup/images/painting_under_chair.jpeg",
+    "caption": "A painting under a chair",
+    "prompt": "Move the painting under the chair",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/scarf_under_armchair.jpeg",
+    "output": "data/whatsup/images/scarf_left_of_armchair.jpeg",
+    "caption": "A scarf to the left of a armchair",
+    "prompt": "Move the scarf to the left of the armchair",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/dog_on_table.jpeg",
+    "output": "data/whatsup/images/dog_under_table.jpeg",
+    "caption": "A dog under a table",
+    "prompt": "Move the dog under the table",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/book_right_of_tape.jpeg",
+    "output": "data/whatsup/images/book_behind_tape.jpeg",
+    "caption": "A book behind a tape",
+    "prompt": "Move the book behind the tape",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/bowl_in-front_of_flower.jpeg",
+    "output": "data/whatsup/images/bowl_left_of_flower.jpeg",
+    "caption": "A bowl to the left of a flower",
+    "prompt": "Move the bowl to the left of the flower",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/remote_in-front_of_scissors.jpeg",
+    "output": "data/whatsup/images/remote_right_of_scissors.jpeg",
+    "caption": "A remote to the right of a scissors",
+    "prompt": "Move the remote to the right of the scissors",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/pot_left_of_chair.jpeg",
+    "output": "data/whatsup/images/pot_on_chair.jpeg",
+    "caption": "A pot on a chair",
+    "prompt": "Move the pot on the chair",
+    "task": "whatsup"
+  },
+  {
+    "input": "data/whatsup/images/can_in-front_of_spoon.jpeg",
+    "output": "data/whatsup/images/can_right_of_spoon.jpeg",
+    "caption": "A can to the right of a spoon",
+    "prompt": "Move the can to the right of the spoon",
+    "task": "whatsup"
+  },
+  {
+    "prompt": "Make the photo seem like it was taken at a picnic at a park.",
+    "input": "data/emu/images/2660.png",
+    "type": "global",
+    "task": "emu"
+  },
+  {
+    "prompt": "Make it into Conceptual Art.",
+    "input": "data/emu/images/2398.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Change the background to a busy Street filled with cars.",
+    "input": "data/emu/images/1070.png",
+    "type": "background",
+    "task": "emu"
+  },
+  {
+    "prompt": "Make it into contemporary art style. ",
+    "input": "data/emu/images/2412.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Change the background into a basketball court.",
+    "input": "data/emu/images/982.png",
+    "type": "background",
+    "task": "emu"
+  },
+  {
+    "prompt": "Change this image into a 1980s Dungeons & Dragons cartoon background art.",
+    "input": "data/emu/images/1901.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Change the image into pencil drawing.",
+    "input": "data/emu/images/1606.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "turn this photo into a picasso painting",
+    "input": "data/emu/images/3588.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Fill the bathroom with water",
+    "input": "data/emu/images/2111.png",
+    "type": "global",
+    "task": "emu"
+  },
+  {
+    "prompt": "Change the image into a cubist style art work.",
+    "input": "data/emu/images/1599.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Change the background in oil painting.",
+    "input": "data/emu/images/980.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Change the background so it is in a cafe.",
+    "input": "data/emu/images/996.png",
+    "type": "background",
+    "task": "emu"
+  },
+  {
+    "prompt": "give this image a salvador dali impression",
+    "input": "data/emu/images/3485.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Make this image look like the Simpsons Cartoon.",
+    "input": "data/emu/images/2793.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Make the photo seem like it was taken during summer.",
+    "input": "data/emu/images/2687.png",
+    "type": "global",
+    "task": "emu"
+  },
+  {
+    "prompt": "Make it look like Andy Warhol painted it. ",
+    "input": "data/emu/images/2418.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Make the image look like a cartoon",
+    "input": "data/emu/images/2603.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Change the background to yellowstone national park",
+    "input": "data/emu/images/1262.png",
+    "type": "background",
+    "task": "emu"
+  },
+  {
+    "prompt": "Change the image to a Matisse.",
+    "input": "data/emu/images/1642.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Make it anime.",
+    "input": "data/emu/images/2389.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Recreate this image in the style of a doodle drawing.",
+    "input": "data/emu/images/2905.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Make it look like Gustav Klimt painted the image.",
+    "input": "data/emu/images/2422.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Change the style to a 1940\u2019s era.",
+    "input": "data/emu/images/1812.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Depict this as if it were a comic book picture.",
+    "input": "data/emu/images/2103.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "I want this done as a pop art piece.",
+    "input": "data/emu/images/2273.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Change the background to Snoopy dog wallpaper.",
+    "input": "data/emu/images/1034.png",
+    "type": "background",
+    "task": "emu"
+  },
+  {
+    "prompt": "Change this image into a watercolor art.",
+    "input": "data/emu/images/1915.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Turn the image into a drawing made from chalk.",
+    "input": "data/emu/images/3404.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Make the background a severe lightning storm. . ",
+    "input": "data/emu/images/2524.png",
+    "type": "background",
+    "task": "emu"
+  },
+  {
+    "prompt": "Change the background to a buffet restaurant.",
+    "input": "data/emu/images/1069.png",
+    "type": "background",
+    "task": "emu"
+  },
+  {
+    "prompt": "Make it look like a renaissance painting. ",
+    "input": "data/emu/images/2442.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Change the background to a Vincent Van Gogh painting.",
+    "input": "data/emu/images/1051.png",
+    "type": "background",
+    "task": "emu"
+  },
+  {
+    "prompt": "Change this into a child's finger painting.",
+    "input": "data/emu/images/1935.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Change the background to a field of wildflowers.",
+    "input": "data/emu/images/1112.png",
+    "type": "background",
+    "task": "emu"
+  },
+  {
+    "prompt": "Make the background a huge petting zoo. ",
+    "input": "data/emu/images/2509.png",
+    "type": "background",
+    "task": "emu"
+  },
+  {
+    "prompt": "Make this look like a comic book photo",
+    "input": "data/emu/images/2808.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Recreate this in the painting style of Thomas Kincaid.",
+    "input": "data/emu/images/2907.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Change the field into a platform in outer space.",
+    "input": "data/emu/images/1525.png",
+    "type": "global",
+    "task": "emu"
+  },
+  {
+    "prompt": "I want this as a watercolor.",
+    "input": "data/emu/images/2272.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Change the image to be taking at night.",
+    "input": "data/emu/images/1658.png",
+    "type": "global",
+    "task": "emu"
+  },
+  {
+    "prompt": "Change the image to a drawing by Kehinde Wiley",
+    "input": "data/emu/images/1652.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Change the style to Cubism.",
+    "input": "data/emu/images/1807.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Turn it into Art Deco. ",
+    "input": "data/emu/images/3383.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Make this image look inspired by a Piet Mondrian painting.",
+    "input": "data/emu/images/2788.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Make it look like it was drawn with crayons. ",
+    "input": "data/emu/images/2453.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Give this image a look inspired by Michelangelo's \"David\".",
+    "input": "data/emu/images/2241.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "prompt": "Change the background into a terrarium full of ants and other bugs.",
+    "input": "data/emu/images/990.png",
+    "type": "background",
+    "task": "emu"
+  },
+  {
+    "prompt": "Change the background to a swamp.",
+    "input": "data/emu/images/1191.png",
+    "type": "background",
+    "task": "emu"
+  },
+  {
+    "prompt": "Make the background a pet store",
+    "input": "data/emu/images/2516.png",
+    "type": "background",
+    "task": "emu"
+  },
+  {
+    "prompt": "Remake this image in the style of a cave wall pictograph.",
+    "input": "data/emu/images/2915.png",
+    "type": "style",
+    "task": "emu"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P34_rgb_frames_frame_0000008494.jpg",
+    "prompt": "Move the hand slightly up so that the sponge also cleans the wooden board",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P34_rgb_frames_frame_0000014164.jpg",
+    "prompt": "Turn on the water tab with the left hand",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P34_rgb_frames_frame_0000005172.jpg",
+    "prompt": "Open the left drawer as well",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P34_rgb_frames_frame_0000000838.jpg",
+    "prompt": "Open the orange bag further with both hands",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P34_rgb_frames_frame_0000014791.jpg",
+    "prompt": "Turn the carrot strips horizontally 90 degrees",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P34_rgb_frames_frame_0000000422.jpg",
+    "prompt": "Pick up the egg with the right hand",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P34_rgb_frames_frame_0000010225.jpg",
+    "prompt": "Pour the contents from the blue bowl into the pot",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P34_rgb_frames_frame_0000005658.jpg",
+    "prompt": "Grab the egg with the right hand",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P34_rgb_frames_frame_0000000946.jpg",
+    "prompt": "Move the orange bag with rice closer to the oven and start pouring it into the pot",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P34_rgb_frames_frame_0000004055.jpg",
+    "prompt": "Move their left hand away from holding the pot",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P34_rgb_frames_frame_0000009459.jpg",
+    "prompt": "Drop the sponge to their feet",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P34_rgb_frames_frame_0000016120.jpg",
+    "prompt": "Use the sponge in the right hand to clean the plate",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P35_rgb_frames_frame_0000012640.jpg",
+    "prompt": "Grab the wooden laddle with the left hand",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P35_rgb_frames_frame_0000001878.jpg",
+    "prompt": "Grab the soap bottle on the right with the hand",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P35_rgb_frames_frame_0000002194.jpg",
+    "prompt": "Take the white cup out of the cupboard",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P35_rgb_frames_frame_0000000796.jpg",
+    "prompt": "Move the hand towards the oven knob",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P35_rgb_frames_frame_0000000422.jpg",
+    "prompt": "Push the chair away from the table",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P35_rgb_frames_frame_0000004769.jpg",
+    "prompt": "Grab the yellow cup with the hand and move it towards the pot",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P35_rgb_frames_frame_0000002133.jpg",
+    "prompt": "Open the drawer a little more",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P35_rgb_frames_frame_0000017118.jpg",
+    "prompt": "Lift the frying pan up",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P35_rgb_frames_frame_0000007533.jpg",
+    "prompt": "Move hand with the spoon further to the right to drop the coffee powder down",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P35_rgb_frames_frame_0000002910.jpg",
+    "prompt": "Pour more milk so that it overflows",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P36_rgb_frames_frame_0000000838.jpg",
+    "prompt": "Put the potato down on the white cutting board",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P36_rgb_frames_frame_0000002682.jpg",
+    "prompt": "Let the paper towel fall down",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P36_rgb_frames_frame_0000002194.jpg",
+    "prompt": "Let the hand pull out some meaty contents out of the container",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P36_rgb_frames_frame_0000010391.jpg",
+    "prompt": "Use the hand to move all the potato pieces towards the pan",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P36_rgb_frames_frame_0000000796.jpg",
+    "prompt": "The hand lifts the plastic container up",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P36_rgb_frames_frame_0000001428.jpg",
+    "prompt": "Move the peeler onto the potato to attempt another peel",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P36_rgb_frames_frame_0000007162.jpg",
+    "prompt": "Move the knife over to start chopping the left bigger piece of potato too",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P36_rgb_frames_frame_0000003467.jpg",
+    "prompt": "Put the bowl down on the left side",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P32_rgb_frames_frame_0000005172.jpg",
+    "prompt": "Move the right hand to one of the oven knobs",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P32_rgb_frames_frame_0000002703.jpg",
+    "prompt": "Put both hands around the plate",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P32_rgb_frames_frame_0000000796.jpg",
+    "prompt": "Open the sandwich maker and place the sandwich inside",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P32_rgb_frames_frame_0000001428.jpg",
+    "prompt": "Close the sandwich maker with the left hand",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P32_rgb_frames_frame_0000002133.jpg",
+    "prompt": "Move the hand towards the handle of the drawer",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P32_rgb_frames_frame_0000022806.jpg",
+    "prompt": "Rub both hands against each other under the water tab",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P32_rgb_frames_frame_0000016070.jpg",
+    "prompt": "Move the left hand with the metal thing under the running water",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P32_rgb_frames_frame_0000003473.jpg",
+    "prompt": "The fork pulls one piece of fish out of the can",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P32_rgb_frames_frame_0000031297.jpg",
+    "prompt": "Put the pan down next to the plate",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P32_rgb_frames_frame_0000026186.jpg",
+    "prompt": "Pull one noodle out of the pot with the fork",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P33_rgb_frames_frame_0000002682.jpg",
+    "prompt": "Move all the dishes into sink right under the water tab",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P33_rgb_frames_frame_0000002133.jpg",
+    "prompt": "Move the laddle to the left side inside the pot",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P33_rgb_frames_frame_0000017273.jpg",
+    "prompt": "Move the wooden laddle towards the pan",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P33_rgb_frames_frame_0000062516.jpg",
+    "prompt": "The hand lets go off the white can and it drops into the pan",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P33_rgb_frames_frame_0000011532.jpg",
+    "prompt": "Grab the soap bottle on the bottom left with the hand",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P33_rgb_frames_frame_0000006710.jpg",
+    "prompt": "Drop the transparent large bowl onto the floor",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P33_rgb_frames_frame_0000008298.jpg",
+    "prompt": "Grab the gray cloth with the hand",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P33_rgb_frames_frame_0000007205.jpg",
+    "prompt": "Pour all the orange content from the bag into the big bowl",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P33_rgb_frames_frame_0000014488.jpg",
+    "prompt": "Poke the food in the pan with the fork",
+    "task": "epic"
+  },
+  {
+    "input": "data/epic/images/EPIC-KITCHENS_P33_rgb_frames_frame_0000006220.jpg",
+    "prompt": "Move the spoon with rice up towards the bowl",
+    "task": "epic"
+  },
+  {
+    "input": "data/kubric/images/further_location/2720/image0.jpg",
+    "output": "data/kubric/images/further_location/2720/image1.jpg",
+    "prompt": "move the green-purple pencil case further left",
+    "pos": "move the green-purple pencil case to the right of the blue towel",
+    "neg": "move the green-purple pencil case to the left of the blue towel",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/closer/6566/image0.jpg",
+    "output": "data/kubric/images/closer/6566/image1.jpg",
+    "prompt": "Move the Nintendo gaming console and the turquoise bowl closer to each other.",
+    "pos": "Move the Nintendo gaming console and the turquoise bowl closer to each other.",
+    "neg": "Move the Nintendo gaming console and the turquoise bowl further apart.",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/further_location/12310/image1.jpg",
+    "output": "data/kubric/images/further_location/12310/image0.jpg",
+    "prompt": "put the white-yellow mug further right",
+    "pos": "put the white-yellow in front of the toaster",
+    "neg": "put the white-yellow mug behind the toaster",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/counting/10350/image1.jpg",
+    "output": "data/kubric/images/counting/10350/image0.jpg",
+    "prompt": "remove 4 green hat with feather from the image",
+    "pos": "remove all yellow objects",
+    "neg": "remove all green objects",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/rotate/20895/image0.jpg",
+    "output": "data/kubric/images/rotate/20895/image1.jpg",
+    "prompt": "push the green turtle toy down",
+    "pos": "push the green turtle toy up",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/rotate/19565/image0.jpg",
+    "output": "data/kubric/images/rotate/19565/image1.jpg",
+    "prompt": "turn the colorful xylophone around",
+    "pos": "move the yellow running shoe further left",
+    "neg": "move the yellow running shoe further right",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/rotate/22201/image0.jpg",
+    "output": "data/kubric/images/rotate/22201/image1.jpg",
+    "prompt": "Turn the round bowl upside down",
+    "pos": "Move the green round bowl to the right of the orange pot",
+    "neg": "Move the green round bowl to the left of the orange pot",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/further_location/11674/image0.jpg",
+    "output": "data/kubric/images/further_location/11674/image1.jpg",
+    "prompt": "shift the black flip-flop sandal further right",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/attribute/4010/image0.jpg",
+    "output": "data/kubric/images/attribute/4010/image1.jpg",
+    "prompt": "make the light-gray tape smaller",
+    "pos": "move the white tape in front of the wrapped present",
+    "neg": "move the white tape behind the wrapped present",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/further_location/7123/image0.jpg",
+    "output": "data/kubric/images/further_location/7123/image1.jpg",
+    "prompt": "put the white-black shoes further right",
+    "pos": "remove all cups",
+    "neg": "remove all shoes",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/closer/7006/image0.jpg",
+    "output": "data/kubric/images/closer/7006/image1.jpg",
+    "prompt": "Move the white soccer cleats and the white-pink shoes closer to each other.",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/rotate/13161/image0.jpg",
+    "output": "data/kubric/images/rotate/13161/image1.jpg",
+    "prompt": "turn the unicorn 90 degrees",
+    "pos": "move the hat further left",
+    "neg": "move the hat further right",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/attribute/6444/image1.jpg",
+    "output": "data/kubric/images/attribute/6444/image0.jpg",
+    "prompt": "make the brown straw hat small",
+    "pos": "move the brown straw hat in front of the soccer cleats",
+    "neg": "move the brown straw hat behind the soccer cleats",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/location/11627/image0.jpg",
+    "output": "data/kubric/images/location/11627/image1.jpg",
+    "prompt": "place the black hat on the right hand of the yellow nesquik chocolate powder canister",
+    "pos": "place the black hat behind the yellow nesquik chocolate powder canister",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/location/9480/image1.jpg",
+    "output": "data/kubric/images/location/9480/image0.jpg",
+    "prompt": "place the yellow ballet shoe behind the red scissors",
+    "pos": "place the yellow ballet shoe in front of the red scissors",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/location/945/image0.jpg",
+    "output": "data/kubric/images/location/945/image1.jpg",
+    "prompt": "place the CARSII on the right of the green-purple pencil case",
+    "pos": "place the CARSII on the left of the green-purple pencil case",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/counting/7357/image1.jpg",
+    "output": "data/kubric/images/counting/7357/image0.jpg",
+    "prompt": "remove 4 yellow medicine bottle from the scene",
+    "pos": "remove 4 spiderman figures from the scene",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/location/5002/image0.jpg",
+    "output": "data/kubric/images/location/5002/image1.jpg",
+    "prompt": "put the yellow nesquik chocolate powder canister on the right hand of the red towel",
+    "pos": "put the yellow nesquik chocolate powder canister on the left hand of the red towel",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/counting/6027/image0.jpg",
+    "output": "data/kubric/images/counting/6027/image1.jpg",
+    "prompt": "add 1 white porcelain ramekin to the platform",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/counting/3794/image0.jpg",
+    "output": "data/kubric/images/counting/3794/image1.jpg",
+    "prompt": "add 1 toy sheep to the platform",
+    "neg": "remove the toy sheep",
+    "pos": "remove the bowls",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/location/1752/image1.jpg",
+    "output": "data/kubric/images/location/1752/image0.jpg",
+    "prompt": "shift the position of the vintage metal alarm clock above the toy squirrel",
+    "pos": "shift the position of the vintage metal alarm clock in front of the toy squirrel",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/rotate/18611/image0.jpg",
+    "output": "data/kubric/images/rotate/18611/image1.jpg",
+    "prompt": "the white drug bottle is flipped upside down",
+    "pos": "move the white drug bottle further right",
+    "neg": "move the white drug bottle further left",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/attribute/8159/image1.jpg",
+    "output": "data/kubric/images/attribute/8159/image0.jpg",
+    "prompt": "transform the black DVD into a white DVD",
+    "pos": "the toy orca is on the right of the gray DVD",
+    "neg": "the toy orca is on the left of the gray DVD",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/rotate/1353/image0.jpg",
+    "output": "data/kubric/images/rotate/1353/image1.jpg",
+    "prompt": "let the teenage mutant ninja turtle figure drop",
+    "pos": "let the teenage mutant ninja turtle stand upright",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/rotate/808/image0.jpg",
+    "output": "data/kubric/images/rotate/808/image1.jpg",
+    "prompt": "flip the black-white bowl upside down",
+    "pos": "move the black-white bowl further left",
+    "neg": "move the black-white bowl further right",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/attribute/6882/image1.jpg",
+    "output": "data/kubric/images/attribute/6882/image0.jpg",
+    "prompt": "turn the green-purple pencil case into a colorful pencil case",
+    "pos": "move the green-purple pencil in front of the green tape",
+    "neg": "move the green-purple pencil behind the green tape",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/counting/11848/image0.jpg",
+    "output": "data/kubric/images/counting/11848/image1.jpg",
+    "prompt": "add 1 red towel to the image",
+    "pos": "remove one drug bottle",
+    "neg": "remove one red towel",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/closer/4815/image0.jpg",
+    "output": "data/kubric/images/closer/4815/image1.jpg",
+    "prompt": "Swap positions of both items.",
+    "pos": "Move the laptop behind the white bowl",
+    "neg": "Move the laptop in front of the white bowl",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/location/159/image0.jpg",
+    "output": "data/kubric/images/location/159/image1.jpg",
+    "prompt": "put the white-red plate behind the white-blue basket",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/closer/5767/image1.jpg",
+    "output": "data/kubric/images/closer/5767/image0.jpg",
+    "prompt": "Swap the positions of the two objects.",
+    "pos": "the green android figure is in front of the high heel",
+    "neg": "the green android figure is behind the high heel",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/counting/8969/image0.jpg",
+    "output": "data/kubric/images/counting/8969/image1.jpg",
+    "prompt": "add 1 white keyboard to the platform",
+    "pos": "remove all white saucers",
+    "neg": "remove all white keyboards",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/counting/4707/image0.jpg",
+    "output": "data/kubric/images/counting/4707/image1.jpg",
+    "prompt": "add 2 white square saucer to the scene",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/further_location/8412/image0.jpg",
+    "output": "data/kubric/images/further_location/8412/image1.jpg",
+    "prompt": "move the black and yellow hammer further right",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/further_location/1443/image0.jpg",
+    "output": "data/kubric/images/further_location/1443/image1.jpg",
+    "prompt": "shift the red flower pot further right",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/location/4004/image0.jpg",
+    "output": "data/kubric/images/location/4004/image1.jpg",
+    "prompt": "shift the position of the toy dicynodont dinosaur on the right hand of the red toy airplane",
+    "pos": "shift the position of the toy dicynodont dinosaur in front of the red toy airplane",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/location/12306/image1.jpg",
+    "output": "data/kubric/images/location/12306/image0.jpg",
+    "prompt": "put the unicorn behind the CARSII",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/further_location/7442/image1.jpg",
+    "output": "data/kubric/images/further_location/7442/image0.jpg",
+    "prompt": "shift the teenage mutant ninja turtle figure further left",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/location/5556/image1.jpg",
+    "output": "data/kubric/images/location/5556/image0.jpg",
+    "prompt": "put the white porcelain ramekin on the right hand of the brown shoe",
+    "pos": "put the white porcelain ramekin on top of the brown shoe",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/counting/10529/image0.jpg",
+    "output": "data/kubric/images/counting/10529/image1.jpg",
+    "prompt": "add 1 brown leather boot to the image",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/attribute/2093/image1.jpg",
+    "output": "data/kubric/images/attribute/2093/image0.jpg",
+    "prompt": "convert the white keyboard into a black keyboard",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/location/6867/image1.jpg",
+    "output": "data/kubric/images/location/6867/image0.jpg",
+    "prompt": "shift the position of the yellow soccer cleats above the white bowl",
+    "pos": "shift the position of the yellow soccer cleats left of the white bowl",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/closer/9735/image0.jpg",
+    "output": "data/kubric/images/closer/9735/image1.jpg",
+    "prompt": "Swap the positions of the teenage mutant ninja turtle figure and the white DVD.",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/attribute/11535/image0.jpg",
+    "output": "data/kubric/images/attribute/11535/image1.jpg",
+    "prompt": "turn the blue-white shoes big",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/counting/9808/image1.jpg",
+    "output": "data/kubric/images/counting/9808/image0.jpg",
+    "prompt": "remove 2 shark from the image",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/rotate/15466/image0.jpg",
+    "output": "data/kubric/images/rotate/15466/image1.jpg",
+    "prompt": "flip the yellow-orange shoes upside down",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/attribute/3737/image1.jpg",
+    "output": "data/kubric/images/attribute/3737/image0.jpg",
+    "prompt": "turn the blue shoe into a white running shoe",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/rotate/12794/image0.jpg",
+    "output": "data/kubric/images/rotate/12794/image1.jpg",
+    "prompt": "turn the green-purple pencil case 90 degrees",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/counting/2015/image1.jpg",
+    "output": "data/kubric/images/counting/2015/image0.jpg",
+    "prompt": "remove 1 green-orange magnifying glass from the scene",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/attribute/9885/image0.jpg",
+    "output": "data/kubric/images/attribute/9885/image1.jpg",
+    "prompt": "convert the golden-black high heel into a red high heel",
+    "task": "kubric"
+  },
+  {
+    "input": "data/kubric/images/further_location/6435/image0.jpg",
+    "output": "data/kubric/images/further_location/6435/image1.jpg",
+    "prompt": "move the red scissors further right",
+    "task": "kubric"
+  }
+]
