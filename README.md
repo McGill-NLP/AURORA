@@ -16,7 +16,7 @@ AURORA (Action Reasoning Object Attribute) enables training an instruction-guide
 
 ## TODOs
 - [x] Training ataset access
-- [ ] Benchmark access
+- [x] Benchmark access
 - [ ] Human ratings
 - [ ] Push code for inference
 - [ ] Push clean code for reproducing training and evaluation
