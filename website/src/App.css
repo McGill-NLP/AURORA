@@ -1,0 +1,16 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* .main {
+  padding: 2rem 8rem;
+} */
+
+.footer {
+  width: 100%;
+  padding: 2em;
+  background-color: #1a4c3e;
+  color: white;
+  text-align: center;
+}
