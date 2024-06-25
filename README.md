@@ -70,3 +70,5 @@ For measuring how well models do on various editing skills (action, reasoning, o
 ## Reproduce Evaluation
 
 ## Acknowledgements, License & Citation
+
+We use the [MIT License](https://github.com/McGill-NLP/AURORA/blob/main/LICENSE).
