@@ -1,0 +1,35 @@
+.header-image {
+    width: 100%;
+    height: 60vh;
+}
+  
+.header-title{
+  position: absolute; 
+  top: 20%; 
+  left: 50%; 
+  transform: translate(-50%, -50%); 
+  color: white; 
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  /* font-size: 10em; */
+}
+
+.header-title-span {
+  font-weight: 400;
+}
+
+.header-subtitle{
+  position: absolute; 
+  top: 30%; 
+  left: 50%; 
+  transform: translate(-50%, -50%); 
+  color: white; 
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  /* font-size: 10em; */
+}
+
+.header-navbar {
+  position: absolute !important;
+  top: 40%; 
+  left: 50%;
+  transform: translate(-50%, -50%); 
+}
