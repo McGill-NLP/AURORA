@@ -69,4 +69,4 @@ For measuring how well models do on various editing skills (action, reasoning, o
 
 ## Reproduce Evaluation
 
-## Acknowledgements, License, Citation
+## Acknowledgements, License & Citation
