@@ -64,6 +64,7 @@ For measuring how well models do on various editing skills (action, reasoning, o
 ### Human Ratings
 
 ## Inference
+You can download our trained checkpoint from Google Drive: [Link](https://drive.google.com/file/d/1omV0xGyX6rVx1gp2EFgdcK8qSw1gUcnx/view?usp=sharing)
 
 ## Training
 
