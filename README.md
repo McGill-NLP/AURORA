@@ -64,7 +64,10 @@ For measuring how well models do on various editing skills (action, reasoning, o
 ### Human Ratings
 
 ## Inference
-You can download our trained checkpoint from Google Drive: [Link](https://drive.google.com/file/d/1omV0xGyX6rVx1gp2EFgdcK8qSw1gUcnx/view?usp=sharing)
+You can download our trained checkpoint from Google Drive: [Link](https://drive.google.com/file/d/1omV0xGyX6rVx1gp2EFgdcK8qSw1gUcnx/view?usp=sharing), place it in the main directory and run our AURORA-trained model on an example image:
+```
+python3 edit_clip.py
+```
 
 ## Training
 
@@ -73,3 +76,8 @@ You can download our trained checkpoint from Google Drive: [Link](https://drive.
 ## Acknowledgements, License & Citation
 
 We use the [MIT License](https://github.com/McGill-NLP/AURORA/blob/main/LICENSE).
+
+We want to thank several repositories that made our life much easier on this project:
+
+1. The [MagicBrush](https://github.com/OSU-NLP-Group/MagicBrush) and [InstructPix2Pix](https://github.com/timothybrooks/instruct-pix2pix) code base and datasets, especially the correspondance with MagicBrush authors helped us a lot.
+2. 
