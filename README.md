@@ -12,7 +12,7 @@ AURORA (Action Reasoning Object Attribute) enables training an instruction-guide
   <img src="assets/overview.png" width="75%" alt="Overview"/>
 </p>
 
-
+Please reach out to [benno.krojer@mila.quebec](mailto:benno.krojer@mila.quebec) or raise an issue if anything does not work!
 
 ## TODOs
 - [x] Training dataset access
@@ -65,10 +65,13 @@ For measuring how well models do on various editing skills (action, reasoning, o
 ### Human Ratings
 
 We also release human ratings of image editing outputs on AURORA-Bench examples, which forms the basis of our main evaluation in the paper.
-The output images and assocaciated human ratings (`task_scores_finegrained.json`) can be downloaded from Google Drive:
+The output images and assocaciated human ratings (`task_scores_finegrained.json`) can be downloaded from Google Drive: [Link](https://drive.google.com/file/d/1sT0rerhrSLWlSsiw1BsO1ALbGssqEBpz/view?usp=sharing)
 
+## Running stuff
 
-## Inference
+Similar to [MagicBrush](https://github.com/OSU-NLP-Group/MagicBrush) we adopt the [pix2pix codebase](https://github.com/timothybrooks/instruct-pix2pix) for running and training models.
+
+### Inference
 
 Please create a python environment and install the requirements.txt file:
 ```
@@ -81,7 +84,9 @@ You can download our trained checkpoint from Google Drive: [Link](https://drive.
 python3 edit_clip.py
 ```
 
-## Training
+### Training
+
+
 
 ## Reproduce Evaluation
 
