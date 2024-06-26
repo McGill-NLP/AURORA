@@ -19,9 +19,9 @@ AURORA (Action Reasoning Object Attribute) enables training an instruction-guide
 - [x] Benchmark access
 - [x] Human ratings
 - [x] Push code for inference
+- [x] Acknowledgements
 - [ ] Push code for reproducing training and evaluation
 - [ ] Create a demo of our model
-- [ ] Acknowledgements
 - [ ] Huggingface ecosystem
 
 ## Data
@@ -92,4 +92,5 @@ We use the [MIT License](https://github.com/McGill-NLP/AURORA/blob/main/LICENSE)
 We want to thank several repositories that made our life much easier on this project:
 
 1. The [MagicBrush](https://github.com/OSU-NLP-Group/MagicBrush) and [InstructPix2Pix](https://github.com/timothybrooks/instruct-pix2pix) code base and datasets, especially the correspondance with MagicBrush authors helped us a lot.
-2. 
+2. The dataset/engines we use to build AURORA: [Something Something v2](https://developer.qualcomm.com/software/ai-datasets/something-something), [Action-Genome](https://github.com/JingweiJ/ActionGenome) and [Kubric](https://github.com/google-research/kubric)
+3. Source code from [EQBEN](https://github.com/Wangt-CN/EqBen) for generating images with the Kubric engine
