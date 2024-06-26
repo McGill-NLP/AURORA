@@ -64,6 +64,13 @@ For measuring how well models do on various editing skills (action, reasoning, o
 ### Human Ratings
 
 ## Inference
+
+Please create a python environment and install the requirements.txt file:
+```
+python3 -m venv env
+pip3 install -r reqirements.txt
+```
+
 You can download our trained checkpoint from Google Drive: [Link](https://drive.google.com/file/d/1omV0xGyX6rVx1gp2EFgdcK8qSw1gUcnx/view?usp=sharing), place it in the main directory and run our AURORA-trained model on an example image:
 ```
 python3 edit_clip.py
