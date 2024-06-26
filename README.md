@@ -15,13 +15,14 @@ AURORA (Action Reasoning Object Attribute) enables training an instruction-guide
 
 
 ## TODOs
-- [x] Training ataset access
+- [x] Training dataset access
 - [x] Benchmark access
-- [ ] Human ratings
-- [ ] Push code for inference
-- [ ] Push clean code for reproducing training and evaluation
+- [x] Human ratings
+- [x] Push code for inference
+- [ ] Push code for reproducing training and evaluation
 - [ ] Create a demo of our model
-- [ ] Acknowledgements: Something Something, AG, Kubric, EQBEN, MagicBrush (!!)
+- [ ] Acknowledgements
+- [ ] Huggingface ecosystem
 
 ## Data
 
@@ -62,6 +63,10 @@ For each sub-dataset of AURORA, an entry would look like this:
 For measuring how well models do on various editing skills (action, reasoning, object/attribute, global), we introduce AURORA-Bench hosted here on this repository under `test.json` with the respective images under `data/TASK/images/`.
 
 ### Human Ratings
+
+We also release human ratings of image editing outputs on AURORA-Bench examples, which forms the basis of our main evaluation in the paper.
+The output images and assocaciated human ratings (`task_scores_finegrained.json`) can be downloaded from Google Drive:
+
 
 ## Inference
 
