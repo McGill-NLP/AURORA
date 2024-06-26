@@ -25,7 +25,7 @@ AURORA (Action Reasoning Object Attribute) enables training an instruction-guide
 
 ## Data
 
-On the data side, we release three artifacts:
+On the data side, we release three artifacts and a [Datasheet documentation](https://github.com/McGill-NLP/AURORA/blob/main/datasheet.md):
 1. The training dataset (AURORA)
 2. A benchmark for testing diverse editing skills (AURORA-Bench): object-centric, action-centric, reasoning-centric, and global edits
 3. Human ratings on AURORA-Bench, i.e. for other researchers working image editing metrics
