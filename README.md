@@ -18,9 +18,9 @@ Please reach out to [benno.krojer@mila.quebec](mailto:benno.krojer@mila.quebec) 
 - [x] Training dataset access
 - [x] Benchmark access
 - [x] Human ratings
-- [x] Push code for inference
+- [x] Push code for inference & training
 - [x] Acknowledgements
-- [ ] Push code for reproducing training and evaluation
+- [ ] Push code for reproducing evaluation
 - [ ] Create a demo of our model
 - [ ] Huggingface ecosystem
 
