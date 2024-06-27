@@ -75,9 +75,9 @@ Similar to [MagicBrush](https://github.com/OSU-NLP-Group/MagicBrush) we adopt th
 
 ### Inference
 
-Please create a python environment and install the requirements.txt file:
+Please create a python environment and install the requirements.txt file (it is unfortunately important to use 3.9 due to taming-transformers):
 ```
-python3 -m venv env
+python3.9 -m venv env
 pip3 install -r reqirements.txt
 ```
 
@@ -87,7 +87,15 @@ python3 edit_clip.py
 ```
 
 ### Training
+To reproduce our training, first download an initial checkpoint that is the reproduced MagicBrush model: [Google Drive Link]()
 
+Next simply run the the train script (hyperparameters can be changed under `configs/finetune_magicbrush_ag_something_kubric_15-15-1-1_init-magic.yaml`):
+
+```
+python3 train.py --gpus 0,
+```
+
+You can specify more gpus i.e. `--gpus 0,1,2,3`.
 
 
 ## Reproduce Evaluation
