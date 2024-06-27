@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Website-TODO.svg)](https://Website.com)
 [![arxiv](https://img.shields.io/badge/arXiv-123.123-b31b1b.svg)](https://arxiv.org/abs/123.123)
 [![HF Datasets: AURORA](https://img.shields.io/badge/HF%20Datasets-AURORA-FFD21E.svg)](https://huggingface.co/collections/McGill-NLP/AURORA)
-[![HF Datasets: AURORA-Bench](https://img.shields.io/badge/HF%20Datasets-AURORA-Bench-FFD21E.svg)](https://huggingface.co/collections/McGill-NLP/aurora-bench)
+[![HF Datasets: AURORA-Bench](https://img.shields.io/badge/HF%20Datasets-AURORABench-FFD21E.svg)](https://huggingface.co/collections/McGill-NLP/aurora-bench)
 [![HF Demo](https://img.shields.io/badge/HF%20DEMO-FFD21E.svg)](https://huggingface.co/collections/McGill-NLP/TODO)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/McGill-NLP/AURORA/blob/main/LICENSE)
 
