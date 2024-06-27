@@ -89,13 +89,15 @@ python3 edit_clip.py
 ### Training
 To reproduce our training, first download an initial checkpoint that is the reproduced MagicBrush model: [Google Drive Link]()
 
-Next simply run the the train script (hyperparameters can be changed under `configs/finetune_magicbrush_ag_something_kubric_15-15-1-1_init-magic.yaml`):
+Due to weird versioning of libraries/python, you have to go to `env/src/taming-transformers/taming/data/utils.py` and comment out line 11: `from torch._six import string_classes`.
+
+Now you can run run the the train script (hyperparameters can be changed under `configs/finetune_magicbrush_ag_something_kubric_15-15-1-1_init-magic.yaml`):
 
 ```
 python3 train.py --gpus 0,
 ```
 
-You can specify more gpus i.e. `--gpus 0,1,2,3`.
+Specify more gpus with i.e. `--gpus 0,1,2,3`.
 
 
 ## Reproduce Evaluation
