@@ -9,7 +9,7 @@
 AURORA (Action Reasoning Object Attribute) enables training an instruction-guided image editing model that can perform action and reasoning-centric edits, in addition to "simpler" established object, attribute or global edits. Here we release 1) training data, 2) trained model, 3) benchmark, 4) reproducible training and evaluation.
 
 <p align="center">
-  <img src="assets/overview.png" width="75%" alt="Overview"/>
+  <img src="assets/AROA.png" width="75%" alt="Overview"/>
 </p>
 
 Please reach out to [benno.krojer@mila.quebec](mailto:benno.krojer@mila.quebec) or raise an issue if anything does not work!
