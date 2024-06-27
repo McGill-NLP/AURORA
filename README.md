@@ -94,7 +94,7 @@ Due to weird versioning of libraries/python, you have to go to `env/src/taming-t
 Now you can run run the the train script (hyperparameters can be changed under `configs/finetune_magicbrush_ag_something_kubric_15-15-1-1_init-magic.yaml`):
 
 ```
-python3 train.py --gpus 0,
+python3 main.py --gpus 0,
 ```
 
 Specify more gpus with i.e. `--gpus 0,1,2,3`.
