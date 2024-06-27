@@ -87,7 +87,7 @@ python3 edit_clip.py
 ```
 
 ### Training
-To reproduce our training, first download an initial checkpoint that is the reproduced MagicBrush model: [Google Drive Link]()
+To reproduce our training, first download an initial checkpoint that is the reproduced MagicBrush model: [Google Drive Link](https://drive.google.com/file/d/1qwkRwsa9jJu1uyYkaWOGL1CpXWlBI1jN/view?usp=sharing)
 
 Due to weird versioning of libraries/python, you have to go to `env/src/taming-transformers/taming/data/utils.py` and comment out line 11: `from torch._six import string_classes`.
 
