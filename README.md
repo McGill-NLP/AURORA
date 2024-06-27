@@ -33,7 +33,9 @@ On the data side, we release three artifacts and a [Datasheet documentation](htt
 
 ### Training Data (AURORA)
 
-Download the images easily via zenodo:
+The edit instructions are stored as `data/TASK/train.json` for each of the four tasks.
+
+For the image pairs, you can download them easily via zenodo:
 ```
 wget https://zenodo.org/record/11552426/files/ag_images.zip
 wget https://zenodo.org/record/11552426/files/kubric_images.zip
