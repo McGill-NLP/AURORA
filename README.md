@@ -92,7 +92,7 @@ To reproduce our training, first download an initial checkpoint that is the repr
 
 Due to weird versioning of libraries/python, you have to go to `env/src/taming-transformers/taming/data/utils.py` and comment out line 11: `from torch._six import string_classes`.
 
-Now you can run run the the train script (hyperparameters can be changed under `configs/finetune_magicbrush_ag_something_kubric_15-15-1-1_init-magic.yaml`):
+Now you can run the the train script (hyperparameters can be changed under `configs/finetune_magicbrush_ag_something_kubric_15-15-1-1_init-magic.yaml`):
 
 ```
 python3 main.py --gpus 0,
