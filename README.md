@@ -79,12 +79,12 @@ Similar to [MagicBrush](https://github.com/OSU-NLP-Group/MagicBrush) we adopt th
 Please create a python environment and install the requirements.txt file (it is unfortunately important to use 3.9 due to taming-transformers):
 ```
 python3.9 -m venv env
-pip3 install -r reqirements.txt
+pip3 install -r requirements.txt
 ```
 
 You can download our trained checkpoint from Google Drive: [Link](https://drive.google.com/file/d/1omV0xGyX6rVx1gp2EFgdcK8qSw1gUcnx/view?usp=sharing), place it in the main directory and run our AURORA-trained model on an example image:
 ```
-python3 edit_clip.py
+python3 edit_cli.py
 ```
 
 ### Training
