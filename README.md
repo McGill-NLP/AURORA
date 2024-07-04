@@ -21,9 +21,10 @@ Please reach out to [benno.krojer@mila.quebec](mailto:benno.krojer@mila.quebec) 
 - [x] Human ratings
 - [x] Push code for inference & training
 - [x] Acknowledgements
-- [ ] Push code for reproducing evaluation
-- [ ] Create a demo of our model
-- [ ] Huggingface ecosystem
+- [x] Push code for reproducing evaluation
+- [x] Create a demo of our model
+- [x] Huggingface ecosystem
+- [ ] Kubric simulation code
 
 ## Data
 
@@ -61,6 +62,9 @@ For each sub-dataset of AURORA, an entry would look like this:
   {"..."}
 ]
 ```
+
+If you are interested in developing your own similar Kubric data, it takes some effort (i.e. Docker+Blender setup), but we provide some code under XXX.
+
 ### Benchmark: AURORA-Bench
 
 For measuring how well models do on various editing skills (action, reasoning, object/attribute, global), we introduce AURORA-Bench hosted here on this repository under `test.json` with the respective images under `data/TASK/images/`.
@@ -106,7 +110,7 @@ Specify more gpus with i.e. `--gpus 0,1,2,3`.
 We primarily rely on human evaluation of model outputs on AURORA-Bench.
 However our second proposed evaluation metric is automatic and here is how you reproduce it.
 
-First, run `python3 disc_edit.py --task TASK` (i.e. `--task whatsup`).
+First, run `python3 disc_edit.py --task TASK` (i.e. `--task whatsup`). This will generate outputs in a folder called itm_evaluation, that will then be evaluated via `python3 eval_disc_edit.py`
 
 ## Acknowledgements, License & Citation
 
