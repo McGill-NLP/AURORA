@@ -104,7 +104,7 @@ Specify more gpus with i.e. `--gpus 0,1,2,3`.
 ## Reproduce Evaluation
 
 We primarily rely on human evaluation of model outputs on AURORA-Bench.
-However our second proposed evaluation metric is automatic and here is how you reproduce it.\
+However our second proposed evaluation metric is automatic and here is how you reproduce it.
 
 First, run `python3 disc_edit.py --task TASK` (i.e. `--task whatsup`).
 
