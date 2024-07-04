@@ -1,15 +1,16 @@
 # *AURORA: Learning Action and Reasoning-Centric Image Editing from Videos and Simulation*
 
-[![Website](https://img.shields.io/badge/Website-TODO.svg)](https://Website.com)
+[![Website](https://img.shields.io/badge/Website-AURORA.svg)](https://aurora-editing.github.io/)
 [![arxiv](https://img.shields.io/badge/arXiv-123.123-b31b1b.svg)](https://arxiv.org/abs/123.123)
-[![HF Datasets](https://img.shields.io/badge/HF%20Datasets-AURORA-FFD21E.svg)](https://huggingface.co/collections/McGill-NLP/TODO)
+[![HF Datasets: AURORA](https://img.shields.io/badge/HF%20Datasets-AURORA-FFD21E.svg)](https://huggingface.co/datasets/McGill-NLP/AURORA)
+[![HF Datasets: AURORA-Bench](https://img.shields.io/badge/HF%20Datasets-AURORABench-FFD21E.svg)](https://huggingface.co/datasets/McGill-NLP/aurora-bench)
 [![HF Demo](https://img.shields.io/badge/HF%20DEMO-FFD21E.svg)](https://huggingface.co/collections/McGill-NLP/TODO)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/McGill-NLP/AURORA/blob/main/LICENSE)
 
 AURORA (Action Reasoning Object Attribute) enables training an instruction-guided image editing model that can perform action and reasoning-centric edits, in addition to "simpler" established object, attribute or global edits. Here we release 1) training data, 2) trained model, 3) benchmark, 4) reproducible training and evaluation.
 
 <p align="center">
-  <img src="assets/AROA.jpg" width="75%" alt="Overview"/>
+  <img src="assets/aurora.png" width="75%" alt="Overview"/>
 </p>
 
 Please reach out to [benno.krojer@mila.quebec](mailto:benno.krojer@mila.quebec) or raise an issue if anything does not work!
@@ -18,11 +19,12 @@ Please reach out to [benno.krojer@mila.quebec](mailto:benno.krojer@mila.quebec) 
 - [x] Training dataset access
 - [x] Benchmark access
 - [x] Human ratings
-- [x] Push code for inference
+- [x] Push code for inference & training
 - [x] Acknowledgements
-- [ ] Push code for reproducing training and evaluation
-- [ ] Create a demo of our model
-- [ ] Huggingface ecosystem
+- [x] Push code for reproducing evaluation
+- [x] Create a demo of our model
+- [x] Huggingface ecosystem
+- [ ] Kubric simulation code
 
 ## Data
 
@@ -60,6 +62,9 @@ For each sub-dataset of AURORA, an entry would look like this:
   {"..."}
 ]
 ```
+
+If you are interested in developing your own similar Kubric data, it takes some effort (i.e. Docker+Blender setup), but we provide some code under XXX.
+
 ### Benchmark: AURORA-Bench
 
 For measuring how well models do on various editing skills (action, reasoning, object/attribute, global), we introduce AURORA-Bench hosted here on this repository under `test.json` with the respective images under `data/TASK/images/`.
@@ -78,20 +83,20 @@ Similar to [MagicBrush](https://github.com/OSU-NLP-Group/MagicBrush) we adopt th
 Please create a python environment and install the requirements.txt file (it is unfortunately important to use 3.9 due to taming-transformers):
 ```
 python3.9 -m venv env
-pip3 install -r reqirements.txt
+pip3 install -r requirements.txt
 ```
 
 You can download our trained checkpoint from Google Drive: [Link](https://drive.google.com/file/d/1omV0xGyX6rVx1gp2EFgdcK8qSw1gUcnx/view?usp=sharing), place it in the main directory and run our AURORA-trained model on an example image:
 ```
-python3 edit_clip.py
+python3 edit_cli.py
 ```
 
 ### Training
-To reproduce our training, first download an initial checkpoint that is the reproduced MagicBrush model: [Google Drive Link]()
+To reproduce our training, first download an initial checkpoint that is the reproduced MagicBrush model: [Google Drive Link](https://drive.google.com/file/d/1qwkRwsa9jJu1uyYkaWOGL1CpXWlBI1jN/view?usp=sharing)
 
 Due to weird versioning of libraries/python, you have to go to `env/src/taming-transformers/taming/data/utils.py` and comment out line 11: `from torch._six import string_classes`.
 
-Now you can run run the the train script (hyperparameters can be changed under `configs/finetune_magicbrush_ag_something_kubric_15-15-1-1_init-magic.yaml`):
+Now you can run the the train script (hyperparameters can be changed under `configs/finetune_magicbrush_ag_something_kubric_15-15-1-1_init-magic.yaml`):
 
 ```
 python3 main.py --gpus 0,
@@ -101,6 +106,11 @@ Specify more gpus with i.e. `--gpus 0,1,2,3`.
 
 
 ## Reproduce Evaluation
+
+We primarily rely on human evaluation of model outputs on AURORA-Bench.
+However our second proposed evaluation metric is automatic and here is how you reproduce it.
+
+First, run `python3 disc_edit.py --task TASK` (i.e. `--task whatsup`). This will generate outputs in a folder called itm_evaluation, that will then be evaluated via `python3 eval_disc_edit.py`
 
 ## Acknowledgements, License & Citation
 
