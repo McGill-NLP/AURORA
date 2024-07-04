@@ -64,7 +64,7 @@ def main():
             AURORA: Learning Action and Reasoning-Centric Image Editing from Videos and Simulations
         </h1>
         <p>
-            AURORA (Action Reasoning Object Attribute) enables training an instruction-guided image editing model that can perform action and reasoning-centric edits, in addition to "simpler" established object, attribute or global edits.
+            AURORA (Action Reasoning Object Attribute) enables training an instruction-guided image editing model that can perform action and reasoning-centric edits, in addition to "simpler" established object, attribute or global edits. <b> To illustrate this, please click "Load example" </b>.
         </p>""")
         
         with gr.Row():
