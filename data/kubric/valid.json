@@ -1,0 +1,301 @@
+[
+  {
+    "input": "data/kubric/images/further_location/2720/image0.jpg",
+    "output": "data/kubric/images/further_location/2720/image1.jpg",
+    "prompt": "move the green-purple pencil case further left",
+    "pos": "move the green-purple pencil case to the right of the blue towel",
+    "neg": "move the green-purple pencil case to the left of the blue towel"
+  },
+  {
+    "input": "data/kubric/images/closer/6566/image0.jpg",
+    "output": "data/kubric/images/closer/6566/image1.jpg",
+    "prompt": "Move the Nintendo gaming console and the turquoise bowl closer to each other.",
+    "pos": "Move the Nintendo gaming console and the turquoise bowl closer to each other.",
+    "neg": "Move the Nintendo gaming console and the turquoise bowl further apart."
+  },
+  {
+    "input": "data/kubric/images/further_location/12310/image1.jpg",
+    "output": "data/kubric/images/further_location/12310/image0.jpg",
+    "prompt": "put the white-yellow mug further right",
+    "pos": "put the white-yellow in front of the toaster",
+    "neg": "put the white-yellow mug behind the toaster"
+  },
+  {
+    "input": "data/kubric/images/counting/10350/image1.jpg",
+    "output": "data/kubric/images/counting/10350/image0.jpg",
+    "prompt": "remove 4 green hat with feather from the image",
+    "pos": "remove all yellow objects",
+    "neg": "remove all green objects"
+  },
+  {
+    "input": "data/kubric/images/rotate/20895/image0.jpg",
+    "output": "data/kubric/images/rotate/20895/image1.jpg",
+    "prompt": "push the green turtle toy down",
+    "pos": "push the green turtle toy up"
+  },
+  {
+    "input": "data/kubric/images/rotate/19565/image0.jpg",
+    "output": "data/kubric/images/rotate/19565/image1.jpg",
+    "prompt": "turn the colorful xylophone around",
+    "pos": "move the yellow running shoe further left",
+    "neg": "move the yellow running shoe further right"
+  },
+  {
+    "input": "data/kubric/images/rotate/22201/image0.jpg",
+    "output": "data/kubric/images/rotate/22201/image1.jpg",
+    "prompt": "Turn the round bowl upside down",
+    "pos": "Move the green round bowl to the right of the orange pot",
+    "neg": "Move the green round bowl to the left of the orange pot"
+  },
+  {
+    "input": "data/kubric/images/further_location/11674/image0.jpg",
+    "output": "data/kubric/images/further_location/11674/image1.jpg",
+    "prompt": "shift the black flip-flop sandal further right"
+  },
+  {
+    "input": "data/kubric/images/attribute/4010/image0.jpg",
+    "output": "data/kubric/images/attribute/4010/image1.jpg",
+    "prompt": "make the light-gray tape smaller",
+    "pos": "move the white tape in front of the wrapped present",
+    "neg": "move the white tape behind the wrapped present"
+  },
+  {
+    "input": "data/kubric/images/further_location/7123/image0.jpg",
+    "output": "data/kubric/images/further_location/7123/image1.jpg",
+    "prompt": "put the white-black shoes further right",
+    "pos": "remove all cups",
+    "neg": "remove all shoes"
+  },
+  {
+    "input": "data/kubric/images/closer/7006/image0.jpg",
+    "output": "data/kubric/images/closer/7006/image1.jpg",
+    "prompt": "Move the white soccer cleats and the white-pink shoes closer to each other."
+  },
+  {
+    "input": "data/kubric/images/rotate/13161/image0.jpg",
+    "output": "data/kubric/images/rotate/13161/image1.jpg",
+    "prompt": "turn the unicorn 90 degrees",
+    "pos": "move the hat further left",
+    "neg": "move the hat further right"
+  },
+  {
+    "input": "data/kubric/images/attribute/6444/image1.jpg",
+    "output": "data/kubric/images/attribute/6444/image0.jpg",
+    "prompt": "make the brown straw hat small",
+    "pos": "move the brown straw hat in front of the soccer cleats",
+    "neg": "move the brown straw hat behind the soccer cleats"
+  },
+  {
+    "input": "data/kubric/images/location/11627/image0.jpg",
+    "output": "data/kubric/images/location/11627/image1.jpg",
+    "prompt": "place the black hat on the right hand of the yellow nesquik chocolate powder canister",
+    "pos": "place the black hat behind the yellow nesquik chocolate powder canister"
+  },
+  {
+    "input": "data/kubric/images/location/9480/image1.jpg",
+    "output": "data/kubric/images/location/9480/image0.jpg",
+    "prompt": "place the yellow ballet shoe behind the red scissors",
+    "pos": "place the yellow ballet shoe in front of the red scissors"
+  },
+  {
+    "input": "data/kubric/images/location/945/image0.jpg",
+    "output": "data/kubric/images/location/945/image1.jpg",
+    "prompt": "place the CARSII on the right of the green-purple pencil case",
+    "pos": "place the CARSII on the left of the green-purple pencil case"
+  },
+  {
+    "input": "data/kubric/images/counting/7357/image1.jpg",
+    "output": "data/kubric/images/counting/7357/image0.jpg",
+    "prompt": "remove 4 yellow medicine bottle from the scene",
+    "pos": "remove 4 spiderman figures from the scene"
+  },
+  {
+    "input": "data/kubric/images/location/5002/image0.jpg",
+    "output": "data/kubric/images/location/5002/image1.jpg",
+    "prompt": "put the yellow nesquik chocolate powder canister on the right hand of the red towel",
+    "pos": "put the yellow nesquik chocolate powder canister on the left hand of the red towel"
+  },
+  {
+    "input": "data/kubric/images/counting/6027/image0.jpg",
+    "output": "data/kubric/images/counting/6027/image1.jpg",
+    "prompt": "add 1 white porcelain ramekin to the platform"
+  },
+  {
+    "input": "data/kubric/images/counting/3794/image0.jpg",
+    "output": "data/kubric/images/counting/3794/image1.jpg",
+    "prompt": "add 1 toy sheep to the platform",
+    "neg": "remove the toy sheep",
+    "pos": "remove the bowls"
+  },
+  {
+    "input": "data/kubric/images/location/1752/image1.jpg",
+    "output": "data/kubric/images/location/1752/image0.jpg",
+    "prompt": "shift the position of the vintage metal alarm clock above the toy squirrel",
+    "pos": "shift the position of the vintage metal alarm clock in front of the toy squirrel"
+  },
+  {
+    "input": "data/kubric/images/rotate/18611/image0.jpg",
+    "output": "data/kubric/images/rotate/18611/image1.jpg",
+    "prompt": "the white drug bottle is flipped upside down",
+    "pos": "move the white drug bottle further right",
+    "neg": "move the white drug bottle further left"
+  },
+  {
+    "input": "data/kubric/images/attribute/8159/image1.jpg",
+    "output": "data/kubric/images/attribute/8159/image0.jpg",
+    "prompt": "transform the black DVD into a white DVD",
+    "pos": "the toy orca is on the right of the gray DVD",
+    "neg": "the toy orca is on the left of the gray DVD"
+  },
+  {
+    "input": "data/kubric/images/rotate/1353/image0.jpg",
+    "output": "data/kubric/images/rotate/1353/image1.jpg",
+    "prompt": "let the teenage mutant ninja turtle figure drop",
+    "pos": "let the teenage mutant ninja turtle stand upright"
+  },
+  {
+    "input": "data/kubric/images/rotate/808/image0.jpg",
+    "output": "data/kubric/images/rotate/808/image1.jpg",
+    "prompt": "flip the black-white bowl upside down",
+    "pos": "move the black-white bowl further left",
+    "neg": "move the black-white bowl further right"
+  },
+  {
+    "input": "data/kubric/images/attribute/6882/image1.jpg",
+    "output": "data/kubric/images/attribute/6882/image0.jpg",
+    "prompt": "turn the green-purple pencil case into a colorful pencil case",
+    "pos": "move the green-purple pencil in front of the green tape",
+    "neg": "move the green-purple pencil behind the green tape"
+  },
+  {
+    "input": "data/kubric/images/counting/11848/image0.jpg",
+    "output": "data/kubric/images/counting/11848/image1.jpg",
+    "prompt": "add 1 red towel to the image",
+    "pos": "remove one drug bottle",
+    "neg": "remove one red towel"
+  },
+  {
+    "input": "data/kubric/images/closer/4815/image0.jpg",
+    "output": "data/kubric/images/closer/4815/image1.jpg",
+    "prompt": "Swap positions of both items.",
+    "pos": "Move the laptop behind the white bowl",
+    "neg": "Move the laptop in front of the white bowl"
+  },
+  {
+    "input": "data/kubric/images/location/159/image0.jpg",
+    "output": "data/kubric/images/location/159/image1.jpg",
+    "prompt": "put the white-red plate behind the white-blue basket"
+  },
+  {
+    "input": "data/kubric/images/closer/5767/image1.jpg",
+    "output": "data/kubric/images/closer/5767/image0.jpg",
+    "prompt": "Swap the positions of the two objects.",
+    "pos": "the green android figure is in front of the high heel",
+    "neg": "the green android figure is behind the high heel"
+  },
+  {
+    "input": "data/kubric/images/counting/8969/image0.jpg",
+    "output": "data/kubric/images/counting/8969/image1.jpg",
+    "prompt": "add 1 white keyboard to the platform",
+    "pos": "remove all white saucers",
+    "neg": "remove all white keyboards"
+  },
+  {
+    "input": "data/kubric/images/counting/4707/image0.jpg",
+    "output": "data/kubric/images/counting/4707/image1.jpg",
+    "prompt": "add 2 white square saucer to the scene"
+  },
+  {
+    "input": "data/kubric/images/further_location/8412/image0.jpg",
+    "output": "data/kubric/images/further_location/8412/image1.jpg",
+    "prompt": "move the black and yellow hammer further right"
+  },
+  {
+    "input": "data/kubric/images/further_location/1443/image0.jpg",
+    "output": "data/kubric/images/further_location/1443/image1.jpg",
+    "prompt": "shift the red flower pot further right"
+  },
+  {
+    "input": "data/kubric/images/location/4004/image0.jpg",
+    "output": "data/kubric/images/location/4004/image1.jpg",
+    "prompt": "shift the position of the toy dicynodont dinosaur on the right hand of the red toy airplane",
+    "pos": "shift the position of the toy dicynodont dinosaur in front of the red toy airplane"
+  },
+  {
+    "input": "data/kubric/images/location/12306/image1.jpg",
+    "output": "data/kubric/images/location/12306/image0.jpg",
+    "prompt": "put the unicorn behind the CARSII"
+  },
+  {
+    "input": "data/kubric/images/further_location/7442/image1.jpg",
+    "output": "data/kubric/images/further_location/7442/image0.jpg",
+    "prompt": "shift the teenage mutant ninja turtle figure further left"
+  },
+  {
+    "input": "data/kubric/images/location/5556/image1.jpg",
+    "output": "data/kubric/images/location/5556/image0.jpg",
+    "prompt": "put the white porcelain ramekin on the right hand of the brown shoe",
+    "pos": "put the white porcelain ramekin on top of the brown shoe"
+  },
+  {
+    "input": "data/kubric/images/counting/10529/image0.jpg",
+    "output": "data/kubric/images/counting/10529/image1.jpg",
+    "prompt": "add 1 brown leather boot to the image"
+  },
+  {
+    "input": "data/kubric/images/attribute/2093/image1.jpg",
+    "output": "data/kubric/images/attribute/2093/image0.jpg",
+    "prompt": "convert the white keyboard into a black keyboard"
+  },
+  {
+    "input": "data/kubric/images/location/6867/image1.jpg",
+    "output": "data/kubric/images/location/6867/image0.jpg",
+    "prompt": "shift the position of the yellow soccer cleats above the white bowl",
+    "pos": "shift the position of the yellow soccer cleats left of the white bowl"
+  },
+  {
+    "input": "data/kubric/images/closer/9735/image0.jpg",
+    "output": "data/kubric/images/closer/9735/image1.jpg",
+    "prompt": "Swap the positions of the teenage mutant ninja turtle figure and the white DVD."
+  },
+  {
+    "input": "data/kubric/images/attribute/11535/image0.jpg",
+    "output": "data/kubric/images/attribute/11535/image1.jpg",
+    "prompt": "turn the blue-white shoes big"
+  },
+  {
+    "input": "data/kubric/images/counting/9808/image1.jpg",
+    "output": "data/kubric/images/counting/9808/image0.jpg",
+    "prompt": "remove 2 shark from the image"
+  },
+  {
+    "input": "data/kubric/images/rotate/15466/image0.jpg",
+    "output": "data/kubric/images/rotate/15466/image1.jpg",
+    "prompt": "flip the yellow-orange shoes upside down"
+  },
+  {
+    "input": "data/kubric/images/attribute/3737/image1.jpg",
+    "output": "data/kubric/images/attribute/3737/image0.jpg",
+    "prompt": "turn the blue shoe into a white running shoe"
+  },
+  {
+    "input": "data/kubric/images/rotate/12794/image0.jpg",
+    "output": "data/kubric/images/rotate/12794/image1.jpg",
+    "prompt": "turn the green-purple pencil case 90 degrees"
+  },
+  {
+    "input": "data/kubric/images/counting/2015/image1.jpg",
+    "output": "data/kubric/images/counting/2015/image0.jpg",
+    "prompt": "remove 1 green-orange magnifying glass from the scene"
+  },
+  {
+    "input": "data/kubric/images/attribute/9885/image0.jpg",
+    "output": "data/kubric/images/attribute/9885/image1.jpg",
+    "prompt": "convert the golden-black high heel into a red high heel"
+  },
+  {
+    "input": "data/kubric/images/further_location/6435/image0.jpg",
+    "output": "data/kubric/images/further_location/6435/image1.jpg",
+    "prompt": "move the red scissors further right"
+  }
+]
