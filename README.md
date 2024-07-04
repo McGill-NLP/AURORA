@@ -63,7 +63,7 @@ For each sub-dataset of AURORA, an entry would look like this:
 ]
 ```
 
-If you are interested in developing your own similar Kubric data, it takes some effort (i.e. Docker+Blender setup), but we provide some code under XXX.
+If you are interested in developing your own similar Kubric data, it takes some effort (i.e. Docker+Blender setup), but we provide some starting code under `eq-kubric`.
 
 ### Benchmark: AURORA-Bench
 
