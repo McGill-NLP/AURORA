@@ -1,7 +1,7 @@
 # *AURORA: Learning Action and Reasoning-Centric Image Editing from Videos and Simulation*
 
 [![Website](https://img.shields.io/badge/Website-AURORA.svg)](https://aurora-editing.github.io/)
-[![arxiv](https://img.shields.io/badge/arXiv-123.123-b31b1b.svg)]([https://arxiv.org/abs/123.123](https://arxiv.org/abs/2407.03471))
+[![arxiv](https://img.shields.io/badge/arXiv-2407.03471-b31b1b.svg)]([https://arxiv.org/abs/123.123](https://arxiv.org/abs/2407.03471))
 [![HF Datasets: AURORA](https://img.shields.io/badge/HF%20Datasets-AURORA-FFD21E.svg)](https://huggingface.co/datasets/McGill-NLP/AURORA)
 [![HF Datasets: AURORA-Bench](https://img.shields.io/badge/HF%20Datasets-AURORABench-FFD21E.svg)](https://huggingface.co/datasets/McGill-NLP/aurora-bench)
 [![HF Demo](https://img.shields.io/badge/HF%20DEMO-FFD21E.svg)](https://huggingface.co/collections/McGill-NLP/TODO)
