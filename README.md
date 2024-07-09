@@ -1,10 +1,10 @@
 # *AURORA: Learning Action and Reasoning-Centric Image Editing from Videos and Simulation*
 
 [![Website](https://img.shields.io/badge/Website-AURORA.svg)](https://aurora-editing.github.io/)
-[![arxiv](https://img.shields.io/badge/arXiv-2407.03471-b31b1b.svg)]([https://arxiv.org/abs/123.123](https://arxiv.org/abs/2407.03471))
+[![arxiv](https://img.shields.io/badge/arXiv-2407.03471-b31b1b.svg)](https://arxiv.org/abs/2407.03471)
 [![HF Datasets: AURORA](https://img.shields.io/badge/HF%20Datasets-AURORA-FFD21E.svg)](https://huggingface.co/datasets/McGill-NLP/AURORA)
 [![HF Datasets: AURORA-Bench](https://img.shields.io/badge/HF%20Datasets-AURORABench-FFD21E.svg)](https://huggingface.co/datasets/McGill-NLP/aurora-bench)
-[![HF Demo](https://img.shields.io/badge/HF%20DEMO-FFD21E.svg)](https://huggingface.co/collections/McGill-NLP/TODO)
+[![HF Demo](https://img.shields.io/badge/HF%20DEMO-FFD21E.svg)](https://huggingface.co/spaces/McGill-NLP/AURORA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/McGill-NLP/AURORA/blob/main/LICENSE)
 
 AURORA (Action Reasoning Object Attribute) enables training an instruction-guided image editing model that can perform action and reasoning-centric edits, in addition to "simpler" established object, attribute or global edits. Here we release 1) training data, 2) trained model, 3) benchmark, 4) reproducible training and evaluation.
