@@ -47,7 +47,14 @@ wget https://zenodo.org/record/11552426/files/magicbrush_images.zip
 Now put them into their respective directory `data/NAME` and rename them images.zip.
 So in the end you should have `data/kubric/images` as a directory etc.
 
-For Something-Something-Edit, you need to go to the [original source](https://developer.qualcomm.com/software/ai-datasets/something-something) and download all the zip files and put *all* the videos in a folder named `videos/`. Then run `data/something/extract_frames.py`, as well as as `data/something/filter_keywords.py`.
+For Something-Something-Edit, you need to go to the [original source](https://developer.qualcomm.com/software/ai-datasets/something-something) and download all the zip files and put *all* the videos in a folder named `data/something/videos/`. 
+
+Then run 
+```
+cd data/something
+python extract_frames.py
+python filter_keywords.py
+```
 
 For each sub-dataset of AURORA, an entry would look like this:
 
