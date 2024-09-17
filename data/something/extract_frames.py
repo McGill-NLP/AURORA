@@ -54,7 +54,7 @@ def extract_and_save_frame(cap, video_file, frame_number, frame_type, base_dir):
     print(f"Saved {frame_file_name}")
 
 # Read JSON file
-json_file = 'validation_2K.json'
+json_file = 'valid.json'
 with open(json_file, 'r') as file:
     videos = json.load(file)
 
