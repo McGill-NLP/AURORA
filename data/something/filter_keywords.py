@@ -8,9 +8,9 @@ filter_words = ['pretend', 'holding', 'fail', 'roll', 'then letting it', 'until 
 # these words should not be in the description
 
 for item in train:
-    if not any(word in item['label'] for word in filter_words):
-        if "falls off" in item['label']:
-            if "but" in item['label']:
+    if not any(word in item['instruction'] for word in filter_words):
+        if "falls off" in item['instruction']:
+            if "but" in item['instruction']:
                 new_train.append(item)  # Includes "falls off" but also has "but"
         else:
             new_train.append(item)  # Does not contain "falls off"
