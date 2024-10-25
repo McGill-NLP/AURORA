@@ -1,0 +1,285 @@
+[
+    {
+        "prompt": "Make her close the door",
+        "pos": "Make her open the door",
+        "input": "data/ag/images/ZY2B1.mp4_27_left.png",
+        "output": "data/ag/images/ZY2B1.mp4_27_right.png"
+    },
+    {
+        "prompt": "Make her pick up the glass",
+        "pos": "Make her put down the glass",
+        "input": "data/ag/images/W4MEA.mp4_0_left.png",
+        "output": "data/ag/images/W4MEA.mp4_0_right.png"
+    },
+    {
+        "prompt": "Make her close her jacket fully",
+        "pos": "Make her open her jacket slightly",
+        "input": "data/ag/images/6ALEL.mp4_3_left.png",
+        "output": "data/ag/images/6ALEL.mp4_3_right.png"
+    },
+    {
+        "prompt": "Make him stand up",
+        "pos": "Make him sit down",
+        "input": "data/ag/images/V2MHO.mp4_18_left.png",
+        "output": "data/ag/images/V2MHO.mp4_18_right.png"
+    },
+    {
+        "prompt": "Make her turn to the left",
+        "pos": "Make her face away",
+        "input": "data/ag/images/F5UVQ.mp4_6_left.png",
+        "output": "data/ag/images/F5UVQ.mp4_6_right.png"
+    },
+    {
+        "prompt": "Make her stand up",
+        "pos": "Make her sit down",
+        "input": "data/ag/images/5RET1.mp4_0_left.png",
+        "output": "data/ag/images/5RET1.mp4_0_right.png"
+    },
+    {
+        "prompt": "Make him lift up the plastic bag",
+        "pos": "Make him put down the plastic bag",
+        "input": "data/ag/images/8D4ZT.mp4_245_left.png",
+        "output": "data/ag/images/8D4ZT.mp4_245_right.png"
+    },
+    {
+        "prompt": "Make the person stand up fully upright",
+        "pos": "Make the person bend down half-way",
+        "input": "data/ag/images/W1SRN.mp4_0_left.png",
+        "output": "data/ag/images/W1SRN.mp4_0_right.png"
+    },
+    {
+        "prompt": "Move his hands towards his face",
+        "pos": "Move his hands towards the table",
+        "input": "data/ag/images/4KOBZ.mp4_12_left.png",
+        "output": "data/ag/images/4KOBZ.mp4_12_right.png"
+    },
+    {
+        "prompt": "Drop the bags onto the floor",
+        "pos": "Hold onto the bags",
+        "input": "data/ag/images/I75CL.mp4_4_left.png",
+        "output": "data/ag/images/I75CL.mp4_4_right.png"
+    },
+    {
+        "prompt": "Make him stand up",
+        "pos": "Make him bend down half-way",
+        "input": "data/ag/images/R2KI4.mp4_15_left.png",
+        "output": "data/ag/images/R2KI4.mp4_15_right.png"
+    },
+    {
+        "prompt": "Open the door",
+        "pos": "Close the door",
+        "input": "data/ag/images/HIJBX.mp4_16_left.png",
+        "output": "data/ag/images/HIJBX.mp4_16_right.png"
+    },
+    {
+        "prompt": "Make the woman lean forward towards the stick",
+        "input": "data/ag/images/QIBAJ.mp4_37_left.png",
+        "output": "data/ag/images/QIBAJ.mp4_37_right.png"
+    },
+    {
+        "prompt": "Make her face fully visible looking at the camera",
+        "pos": "Make her face partially visible looking to the right",
+        "input": "data/ag/images/LU82W.mp4_4_left.png",
+        "output": "data/ag/images/LU82W.mp4_4_right.png"
+    },
+    {
+        "prompt": "Show his hands on the plate to arrange the food",
+        "input": "data/ag/images/35ZZP.mp4_138_left.png",
+        "output": "data/ag/images/35ZZP.mp4_138_right.png"
+    },
+    {
+        "prompt": "Move both hands towards the cup",
+        "input": "data/ag/images/N4SA2.mp4_27_left.png",
+        "output": "data/ag/images/N4SA2.mp4_27_right.png"
+    },
+    {
+        "prompt": "Make her stand up",
+        "pos": "Make her sit down",
+        "input": "data/ag/images/WJEVU.mp4_2_left.png",
+        "output": "data/ag/images/WJEVU.mp4_2_right.png"
+    },
+    {
+        "prompt": "Make him fully close the drawer",
+        "pos": "Make him open the drawer",
+        "input": "data/ag/images/JJ47B.mp4_3_left.png",
+        "output": "data/ag/images/JJ47B.mp4_3_right.png"
+    },
+    {
+        "prompt": "Move the cloth up towards his face",
+        "pos": "Move the cloth down towards his lap",
+        "input": "data/ag/images/7614L.mp4_45_left.png",
+        "output": "data/ag/images/7614L.mp4_45_right.png"
+    },
+    {
+        "prompt": "Make the person lean back further in their chair",
+        "pos": "Make the person sit straight in the chair",
+        "input": "data/ag/images/JJZ1X.mp4_4_left.png",
+        "output": "data/ag/images/JJZ1X.mp4_4_right.png"
+    },
+    {
+        "prompt": "Make him lower both arms",
+        "input": "data/ag/images/9VZOY.mp4_39_left.png",
+        "output": "data/ag/images/9VZOY.mp4_39_right.png"
+    },
+    {
+        "prompt": "Make him face towards the left",
+        "input": "data/ag/images/1FX8Q.mp4_20_left.png",
+        "output": "data/ag/images/1FX8Q.mp4_20_right.png"
+    },
+    {
+        "prompt": "Make him close the door half way",
+        "input": "data/ag/images/6JLD4.mp4_12_left.png",
+        "output": "data/ag/images/6JLD4.mp4_12_right.png"
+    },
+    {
+        "prompt": "Make her put the laptop down",
+        "input": "data/ag/images/XVI3M.mp4_9_left.png",
+        "output": "data/ag/images/XVI3M.mp4_9_right.png"
+    },
+    {
+        "prompt": "Make her walk away from the table",
+        "pos": "Make her stand at the table",
+        "input": "data/ag/images/S2S7I.mp4_14_left.png",
+        "output": "data/ag/images/S2S7I.mp4_14_right.png"
+    },
+    {
+        "prompt": "Make him turn facing towards the camera",
+        "pos": "Make him face to the right",
+        "input": "data/ag/images/VF3Y0.mp4_18_left.png",
+        "output": "data/ag/images/VF3Y0.mp4_18_right.png"
+    },
+    {
+        "prompt": "Make him type on the laptop",
+        "input": "data/ag/images/X28IF.mp4_14_left.png",
+        "output": "data/ag/images/X28IF.mp4_14_right.png"
+    },
+    {
+        "prompt": "Make the person step forward and close the door",
+        "pos": "Let the person stand in the doorway and open the door",
+        "input": "data/ag/images/3Q3YY.mp4_14_left.png",
+        "output": "data/ag/images/3Q3YY.mp4_14_right.png"
+    },
+    {
+        "prompt": "Make him turn forward while keeping the orange cup on the surface",
+        "input": "data/ag/images/AUYOZ.mp4_44_left.png",
+        "output": "data/ag/images/AUYOZ.mp4_44_right.png"
+    },
+    {
+        "prompt": "Make him put the plate down on the table",
+        "pos": "Make him pick the plate up from the table",
+        "input": "data/ag/images/THW67.mp4_89_left.png",
+        "output": "data/ag/images/THW67.mp4_89_right.png"
+    },
+    {
+        "prompt": "Make him walk further towards the right",
+        "input": "data/ag/images/1VMZM.mp4_1_left.png",
+        "output": "data/ag/images/1VMZM.mp4_1_right.png"
+    },
+    {
+        "prompt": "Make the person walk down the stairs",
+        "pos": "Make the person stand at the top of the stairs",
+        "input": "data/ag/images/14XKK.mp4_184_left.png",
+        "output": "data/ag/images/14XKK.mp4_184_right.png"
+    },
+    {
+        "prompt": "Make her grab the book from the shelf",
+        "input": "data/ag/images/RH44U.mp4_92_left.png",
+        "output": "data/ag/images/RH44U.mp4_92_right.png"
+    },
+    {
+        "prompt": "Make the man take a bite from the snack in his hand",
+        "input": "data/ag/images/J7TT5.mp4_9_left.png",
+        "output": "data/ag/images/J7TT5.mp4_9_right.png"
+    },
+    {
+        "prompt": "Move her hands with the bread down towards the table",
+        "pos": "Move her hands with the bread up towards her face",
+        "input": "data/ag/images/KNN3G.mp4_97_left.png",
+        "output": "data/ag/images/KNN3G.mp4_97_right.png"
+    },
+    {
+        "prompt": "Make him put down the red shovel",
+        "pos": "Make him hold the red shovel",
+        "input": "data/ag/images/7614L.mp4_56_left.png",
+        "output": "data/ag/images/7614L.mp4_56_right.png"
+    },
+    {
+        "prompt": "Close the laundry machine door",
+        "pos": "Open the laundry machine door",
+        "input": "data/ag/images/RRDAM.mp4_9_left.png",
+        "output": "data/ag/images/RRDAM.mp4_9_right.png"
+    },
+    {
+        "prompt": "Make the man partially stand up",
+        "input": "data/ag/images/ZVMAY.mp4_40_left.png",
+        "output": "data/ag/images/ZVMAY.mp4_40_right.png"
+    },
+    {
+        "prompt": "Make the man turn around",
+        "pos": "Make the man turn away",
+        "input": "data/ag/images/FVPMC.mp4_113_left.png",
+        "output": "data/ag/images/FVPMC.mp4_113_right.png"
+    },
+    {
+        "prompt": "Make the man put down the book on the sofa",
+        "pos": "Make the man pick up the book from the sofa",
+        "input": "data/ag/images/2KGV3.mp4_126_left.png",
+        "output": "data/ag/images/2KGV3.mp4_126_right.png"
+    },
+    {
+        "prompt": "Make the person lift their left leg up",
+        "pos": "Make the person put their left leg down",
+        "input": "data/ag/images/WXC7V.mp4_13_left.png",
+        "output": "data/ag/images/WXC7V.mp4_13_right.png"
+    },
+    {
+        "prompt": "Make the person spread their arms wide to both sides",
+        "pos": "Make the person put their arms down",
+        "input": "data/ag/images/9PAQ4.mp4_8_left.png",
+        "output": "data/ag/images/9PAQ4.mp4_8_right.png"
+    },
+    {
+        "prompt": "Make them look at the shelf behind them",
+        "pos": "Make them look at the sink left of them",
+        "input": "data/ag/images/BWZL2.mp4_26_left.png",
+        "output": "data/ag/images/BWZL2.mp4_26_right.png"
+    },
+    {
+        "prompt": "Open the door fully",
+        "input": "data/ag/images/YK49T.mp4_41_left.png",
+        "output": "data/ag/images/YK49T.mp4_41_right.png"
+    },
+    {
+        "prompt": "Open the door",
+        "pos": "Close the door",
+        "input": "data/ag/images/KWQKH.mp4_8_left.png",
+        "output": "data/ag/images/KWQKH.mp4_8_right.png"
+    },
+    {
+        "prompt": "Make them stand up",
+        "pos": "Make them bend down half-way",
+        "input": "data/ag/images/YIK5I.mp4_92_left.png",
+        "output": "data/ag/images/YIK5I.mp4_92_right.png"
+    },
+    {
+        "prompt": "Put down the black piece of clothing onto the floor",
+        "pos": "Hold up the black piece of clothing",
+        "input": "data/ag/images/VIN5T.mp4_5_left.png",
+        "output": "data/ag/images/VIN5T.mp4_5_right.png"
+    },
+    {
+        "prompt": "Make her sit down fully cross-legged reading the book",
+        "input": "data/ag/images/O1LOW.mp4_41_left.png",
+        "output": "data/ag/images/O1LOW.mp4_41_right.png"
+    },
+    {
+        "prompt": "Make them close the curtains",
+        "input": "data/ag/images/MFGLZ.mp4_30_left.png",
+        "output": "data/ag/images/MFGLZ.mp4_30_right.png"
+    },
+    {
+        "prompt": "Make them stand up fully upright looking at their hands",
+        "input": "data/ag/images/MZ3I3.mp4_67_left.png",
+        "output": "data/ag/images/MZ3I3.mp4_67_right.png"
+    }
+]
