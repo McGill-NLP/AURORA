@@ -33,6 +33,8 @@ On the data side, we release three artifacts and a [Datasheet documentation](htt
 2. A benchmark for testing diverse editing skills (AURORA-Bench): object-centric, action-centric, reasoning-centric, and global edits
 3. Human ratings on AURORA-Bench, i.e. for other researchers working image editing metrics
 
+You can also check out our [Huggingface dataset](https://huggingface.co/datasets/McGill-NLP/AURORA).
+
 ### Training Data (AURORA)
 
 The edit instructions are stored as `data/TASK/train.json` for each of the four tasks.
