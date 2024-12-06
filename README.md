@@ -15,16 +15,10 @@ AURORA (Action Reasoning Object Attribute) enables training an instruction-guide
 
 Please reach out to [benno.krojer@mila.quebec](mailto:benno.krojer@mila.quebec) or raise an issue if anything does not work!
 
-## TODOs
-- [x] Training dataset access
-- [x] Benchmark access
-- [x] Human ratings
-- [x] Push code for inference & training
-- [x] Acknowledgements
-- [x] Push code for reproducing evaluation
-- [x] Create a demo of our model
-- [x] Huggingface ecosystem
-- [ ] Kubric simulation code
+
+
+## Updates
+**5th December 2024**: uploaded cleaner (actually usable) human ratings on AURORA-Bench. This can be useful for evaluating metrics via human correlation across a wide range of tasks. It includes 2K human ratings on outputs from 5 models.
 
 ## Data
 
@@ -81,7 +75,7 @@ For measuring how well models do on various editing skills (action, reasoning, o
 ### Human Ratings
 
 We also release human ratings of image editing outputs on AURORA-Bench examples, which forms the basis of our main evaluation in the paper.
-The output images and assocaciated human ratings (`task_scores_finegrained.json`) can be downloaded from Google Drive: [Link](https://drive.google.com/file/d/1sT0rerhrSLWlSsiw1BsO1ALbGssqEBpz/view?usp=sharing)
+The output images and assocaciated human ratings can be downloaded from Google Drive and is straightforward to use e.g. for computing correlations with a new metric: [json](https://drive.google.com/file/d/1C7yT2j9rgeTloYCOJ0JeNEQAV48Luqcf/view?usp=sharing), [images files](https://drive.google.com/file/d/1wUwlxN1ArqTlCQQgnsj7DoXNoPRX71Ao/view?usp=sharing)
 
 ## Running stuff
 
