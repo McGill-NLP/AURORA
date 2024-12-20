@@ -115,7 +115,20 @@ However our second proposed evaluation metric is automatic and here is how you r
 
 First, run `python3 disc_edit.py --task TASK` (i.e. `--task whatsup`). This will generate outputs in a folder called itm_evaluation, that will then be evaluated via `python3 eval_disc_edit.py`
 
-## Acknowledgements, License & Citation
+## Citation
+
+```bibtex
+@inproceedings{krojer2024aurora,
+  author={Benno Krojer and Dheeraj Vattikonda and Luis Lara and Varun Jampani and Eva Portelance and Christopher Pal and Siva Reddy},
+  title={{Learning Action and Reasoning-Centric Image Editing from Videos and Simulations}},
+  booktitle={NeurIPS},
+  year={2024},
+  note={Spotlight Paper},
+  url={https://arxiv.org/abs/2407.03471}
+}
+```
+
+## Acknowledgements & License 
 
 We use the [MIT License](https://github.com/McGill-NLP/AURORA/blob/main/LICENSE).
 
