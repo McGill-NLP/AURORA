@@ -75,7 +75,7 @@ For measuring how well models do on various editing skills (action, reasoning, o
 ### Human Ratings
 
 We also release human ratings of image editing outputs on AURORA-Bench examples, which forms the basis of our main evaluation in the paper.
-The output images and assocaciated human ratings can be downloaded from Google Drive and is straightforward to use e.g. for computing correlations with a new metric: [json](https://drive.google.com/file/d/1C7yT2j9rgeTloYCOJ0JeNEQAV48Luqcf/view?usp=sharing), [images files](https://drive.google.com/file/d/1wUwlxN1ArqTlCQQgnsj7DoXNoPRX71Ao/view?usp=sharing)
+The output images and assocaciated human ratings can be downloaded from Google Drive and is straightforward to use e.g. for computing correlations with a new metric: [json](https://drive.google.com/file/d/1uWpVOit_eUvI6GnY_Bvaj_vPd3H8cTbT/view?usp=sharing), [images files](https://drive.google.com/file/d/1wUwlxN1ArqTlCQQgnsj7DoXNoPRX71Ao/view?usp=sharing)
 
 ## Running stuff
 
