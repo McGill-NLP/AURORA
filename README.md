@@ -89,7 +89,7 @@ python3.9 -m venv env
 pip3 install -r requirements.txt
 ```
 
-You can download our trained checkpoint from Google Drive: [Link](https://drive.google.com/file/d/1omV0xGyX6rVx1gp2EFgdcK8qSw1gUcnx/view?usp=sharing), place it in the main directory and run our AURORA-trained model on an example image:
+You can download our trained checkpoint from Google Drive: [Link](https://drive.google.com/file/d/1xJL-fAHZmyYEKYy3bxkilKBivjIT5CCu/view?usp=sharing), place it in the main directory and run our AURORA-trained model on an example image:
 ```
 python3 edit_cli.py
 ```
